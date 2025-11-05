@@ -18,6 +18,7 @@ export type EventCategory =
 export interface CategoryConfig {
   id: EventCategory;
   name: string;
+  canRegister: boolean;
   color?: string;
   sportsId?: number;
 }
@@ -26,40 +27,47 @@ export const CATEGORIES: CategoryConfig[] = [
   {
     id: "adult-league-game",
     name: "Adult League Games",
+    canRegister: false,
     color: "#3b82f6", // blue
   },
   {
     id: "bears",
     name: "Bears (Youth Hockey)",
+    canRegister: false,
     color: "#ef4444", // red
   },
   {
     id: "gretzky-hour",
     name: "Gretzky Hour",
-    sportsId: 20,
+    canRegister: true,
+    sportsId: 32,
     color: "#f59e0b", // amber
   },
   {
     id: "public-skate",
     name: "Public Skate",
+    canRegister: true,
     sportsId: 31,
     color: "#10b981", // green
   },
   {
     id: "drop-in",
     name: "Drop-In Sessions",
-    sportsId: 32,
+    canRegister: true,
+    sportsId: 20,
     color: "#8b5cf6", // purple
   },
   {
     id: "figure-skating",
     name: "Figure Skating",
+    canRegister: true,
     sportsId: 27,
     color: "#ec4899", // pink
   },
   {
     id: "other",
     name: "Other",
+    canRegister: true,
     color: "#6b7280", // gray
   },
 ];

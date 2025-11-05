@@ -11,6 +11,7 @@ import {
 } from "../config/categories";
 import type { CalendarEvent } from "../types/api";
 import { Header } from "./Header";
+import { EventModal } from "./EventModal";
 import "react-big-calendar/lib/css/react-big-calendar.css";
 import "../react-big-calendar-dark.css";
 
@@ -96,6 +97,7 @@ export function Calendar() {
     Record<EventCategory, boolean>
   >(initialState.categoryFilters);
   const [isInitialLoad, setIsInitialLoad] = useState(true);
+  const [selectedEvent, setSelectedEvent] = useState<CalendarEvent | null>(null);
 
   // Enforce day view on mobile if user tries to switch to week
   const handleViewChange = (newView: CalendarView) => {
@@ -256,10 +258,15 @@ export function Calendar() {
           style={{ height: "100%", width: "100%" }}
           eventPropGetter={eventStyleGetter}
           onSelectEvent={(event) => {
-            console.log(event.raw.attributes);
+            setSelectedEvent(event);
           }}
         />
       </div>
+
+      <EventModal
+        event={selectedEvent}
+        onClose={() => setSelectedEvent(null)}
+      />
     </div>
   );
 }
