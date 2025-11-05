@@ -1,0 +1,11 @@
+/* hide all day row */
+.rbc-allday-cell {
+  display: none;
+}
+
+/* Hide view switcher (Week/Day buttons) on mobile (below md breakpoint) */
+@media (max-width: theme('screens.md')) {
+  .rbc-toolbar .rbc-btn-group:last-child {
+    display: none;
+  }
+}

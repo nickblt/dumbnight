@@ -1,0 +1,229 @@
+@media (prefers-color-scheme: dark) {
+  .rbc-off-range {
+    color: #6b7280;
+  }
+
+  .rbc-off-range-bg {
+    background: #1f2937;
+  }
+
+  .rbc-header {
+    border-bottom: 1px solid #1f2937;
+    background-color: #1f2937;
+    color: #f3f4f6;
+  }
+
+  .rbc-header + .rbc-header {
+    border-left: 1px solid #1f2937;
+  }
+
+  .rbc-rtl .rbc-header + .rbc-header {
+    border-right: 1px solid #1f2937;
+  }
+
+  .rbc-today {
+    background-color: #1e3a5f;
+  }
+
+  .rbc-toolbar button {
+    color: #ffffff;
+    border: 1px solid #374151;
+    background-color: #1f2937;
+  }
+
+  .rbc-toolbar button:active,
+  .rbc-toolbar button.rbc-active {
+    background-color: #374151;
+    border-color: #4b5563;
+  }
+
+  .rbc-toolbar button:active:hover,
+  .rbc-toolbar button:active:focus,
+  .rbc-toolbar button.rbc-active:hover,
+  .rbc-toolbar button.rbc-active:focus {
+    color: #ffffff;
+    background-color: #4b5563;
+    border-color: #6b7280;
+  }
+
+  .rbc-toolbar button:focus {
+    color: #ffffff;
+    background-color: #374151;
+    border-color: #4b5563;
+  }
+
+  .rbc-toolbar button:hover {
+    color: #ffffff;
+    background-color: #374151;
+    border-color: #4b5563;
+  }
+
+  .rbc-toolbar .rbc-toolbar-label {
+    color: #f3f4f6;
+  }
+
+  .rbc-event,
+  .rbc-day-slot .rbc-background-event {
+    color: #fff;
+  }
+
+  .rbc-event-label {
+    color: #fff;
+  }
+
+  .rbc-event-content {
+    color: #fff;
+  }
+
+  .rbc-selected-cell {
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+
+  .rbc-show-more {
+    background-color: rgba(0, 0, 0, 0.3);
+    color: #60a5fa;
+  }
+
+  .rbc-show-more:hover,
+  .rbc-show-more:focus {
+    color: #93c5fd;
+  }
+
+  .rbc-month-view {
+    border: 1px solid #1f2937;
+    background-color: #111827;
+  }
+
+  .rbc-month-row + .rbc-month-row {
+    border-top: 1px solid #1f2937;
+  }
+
+  .rbc-day-bg + .rbc-day-bg {
+    border-left: 1px solid #1f2937;
+  }
+
+  .rbc-rtl .rbc-day-bg + .rbc-day-bg {
+    border-right: 1px solid #1f2937;
+  }
+
+  .rbc-overlay {
+    border: 1px solid #374151;
+    background-color: #1f2937;
+  }
+
+  .rbc-overlay-header {
+    border-bottom: 1px solid #374151;
+  }
+
+  .rbc-agenda-view table.rbc-agenda-table {
+    border: 1px solid #1f2937;
+  }
+
+  .rbc-agenda-view table.rbc-agenda-table tbody > tr > td + td {
+    border-left: 1px solid #1f2937;
+  }
+
+  .rbc-rtl .rbc-agenda-view table.rbc-agenda-table tbody > tr > td + td {
+    border-right: 1px solid #1f2937;
+  }
+
+  .rbc-agenda-view table.rbc-agenda-table tbody > tr + tr {
+    border-top: 1px solid #1f2937;
+  }
+
+  .rbc-agenda-view table.rbc-agenda-table thead > tr > th {
+    border-bottom: 1px solid #1f2937;
+    background-color: #1f2937;
+    color: #f3f4f6;
+  }
+
+  .rbc-timeslot-group {
+    border-bottom: 1px solid #1f2937;
+  }
+
+  .rbc-label {
+    color: #d1d5db;
+  }
+
+  .rbc-day-slot .rbc-event,
+  .rbc-day-slot .rbc-background-event {
+    border: 1px solid rgba(0, 0, 0, 0.3);
+  }
+
+  .rbc-day-slot .rbc-time-slot {
+    border-top: 1px solid #111827;
+  }
+
+  .rbc-time-view-resources .rbc-time-gutter,
+  .rbc-time-view-resources .rbc-time-header-gutter {
+    background-color: #1f2937;
+    border-right: 1px solid #1f2937;
+  }
+
+  .rbc-time-view {
+    border: 1px solid #1f2937;
+    background-color: #111827;
+  }
+
+  .rbc-time-view .rbc-time-gutter {
+    color: #d1d5db;
+  }
+
+  .rbc-time-view .rbc-allday-cell + .rbc-allday-cell {
+    border-left: 1px solid #1f2937;
+  }
+
+  .rbc-time-header {
+    background-color: #111827;
+  }
+
+  .rbc-time-header.rbc-overflowing {
+    border-right: 1px solid #1f2937;
+  }
+
+  .rbc-rtl .rbc-time-header.rbc-overflowing {
+    border-left: 1px solid #1f2937;
+  }
+
+  .rbc-time-header > .rbc-row:first-child {
+    border-bottom: 1px solid #1f2937;
+  }
+
+  .rbc-time-header > .rbc-row.rbc-row-resource {
+    border-bottom: 1px solid #1f2937;
+  }
+
+  .rbc-time-header-content {
+    border-left: 1px solid #1f2937;
+  }
+
+  .rbc-rtl .rbc-time-header-content {
+    border-right: 1px solid #1f2937;
+  }
+
+  .rbc-time-header-content > .rbc-row.rbc-row-resource {
+    border-bottom: 1px solid #1f2937;
+  }
+
+  .rbc-time-content {
+    border-top: 2px solid #1f2937;
+    background-color: #111827;
+  }
+
+  .rbc-time-content > * + * > * {
+    border-left: 1px solid #1f2937;
+  }
+
+  .rbc-rtl .rbc-time-content > * + * > * {
+    border-right: 1px solid #1f2937;
+  }
+
+  .rbc-current-time-indicator {
+    background-color: #ef4444;
+  }
+
+  .rbc-slot-selection {
+    background-color: rgba(255, 255, 255, 0.2);
+    color: white;
+  }
+}
