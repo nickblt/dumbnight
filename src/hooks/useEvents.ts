@@ -78,7 +78,6 @@ function transformEvent(
   const homeTeam = attributes.hteam_id
     ? teams.get(attributes.hteam_id)
     : undefined;
-  const homeTeamName = homeTeam ? getTeamName(homeTeam) : undefined;
   const category = categorizeEvent(event, homeTeam);
 
   return {
@@ -96,14 +95,8 @@ function transformEvent(
     description: attributes.best_description || undefined,
     category,
     raw: event,
+    variants: [],
   };
-}
-
-/**
- * Create registration URL for a team
- */
-function getRegistrationUrl(teamId: number): string {
-  return `https://apps.daysmartrecreation.com/dash/x/#/online/sharks/group/register/${teamId}`;
 }
 
 /**
@@ -136,14 +129,14 @@ function deduplicateEvents(
 
     if (groupEvents.length > 1) {
       // Multiple events at same time/rink - deduplicate them
-      const variants: Event[] = groupEvents.map((event) => event.raw);
+      const variants: CalendarEvent[] = groupEvents;
 
       // Use the first event as the base
       const firstEvent = groupEvents[0];
 
       // Get all team names for finding common prefix
       const teamNames = groupEvents
-        .map(e => {
+        .map((e) => {
           const team = teams.get(e.homeTeamId!);
           return getTeamName(team);
         })
@@ -151,27 +144,28 @@ function deduplicateEvents(
 
       // Find longest common prefix of all team names
       const findCommonPrefix = (names: string[]): string => {
-        if (names.length === 0) return 'Event';
+        if (names.length === 0) return "Event";
         if (names.length === 1) return names[0];
 
         let prefix = names[0];
         for (let i = 1; i < names.length; i++) {
           while (names[i].indexOf(prefix) !== 0) {
             prefix = prefix.substring(0, prefix.length - 1);
-            if (prefix === '') return names[0];
+            if (prefix === "") return names[0];
           }
         }
 
         // Trim trailing separators like " - ", " – ", etc.
-        return prefix.replace(/\s*[-–—]\s*$/, '').trim();
+        return prefix.replace(/\s*[-–—]\s*$/, "").trim();
       };
 
       const baseName = findCommonPrefix(teamNames);
 
       // Add count if multiple variants
-      const title = variants.length > 1
-        ? `${baseName} (${variants.length} options)`
-        : baseName;
+      const title =
+        variants.length > 1
+          ? `${baseName} (+${variants.length - 1} other${variants.length > 2 ? "s" : ""})`
+          : baseName;
 
       const dedupedEvent: CalendarEvent = {
         ...firstEvent,

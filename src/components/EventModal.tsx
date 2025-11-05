@@ -103,6 +103,26 @@ export function EventModal({ event, onClose }: EventModalProps) {
 
           {/* Content */}
           <div className="p-6">
+            {/* Show variant titles if deduplicated */}
+            {event.variants.length > 1 && (
+              <div className="mb-6">
+                <h3 className="text-lg font-semibold text-gray-900 dark:text-white mb-2">
+                  The following {event.variants.length} events are in this time
+                  slot
+                </h3>
+                <ul className="space-y-2">
+                  {event.variants.map((variant) => (
+                    <li
+                      key={variant.id}
+                      className="text-gray-700 dark:text-gray-300 pl-4 border-l-2 border-gray-300 dark:border-gray-600"
+                    >
+                      {variant.title}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
+
             {event.description && (
               <div className="mb-6">
                 <h3 className="text-lg font-semibold text-gray-900 dark:text-white mb-2">

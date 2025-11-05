@@ -44,7 +44,7 @@ export interface EventAttributes {
 }
 
 export interface Event {
-  type: 'events';
+  type: "events";
   id: string;
   attributes: EventAttributes;
   relationships: Record<string, any>;
@@ -63,7 +63,7 @@ export interface TeamAttributes {
 }
 
 export interface Team {
-  type: 'teams';
+  type: "teams";
   id: string;
   attributes: TeamAttributes;
   relationships?: Record<string, any>;
@@ -82,12 +82,12 @@ export interface CalendarEvent {
   end: Date;
   resourceId: number;
   resourceName: string;
-  eventType: 'game' | 'session' | 'lesson' | 'other';
+  eventType: "game" | "session" | "lesson" | "other";
   homeTeamId?: number;
   visitingTeamId?: number;
   description?: string;
   raw: Event; // Keep reference to original event
-  variants?: Event[]; // For deduplicated events - array of all original events with different price tiers
+  variants: CalendarEvent[]; // For deduplicated events - array of all variant events
   isDeduplicated?: boolean; // True if this event represents multiple events
   category?: string; // Event category for filtering (adult-league-game, bears, etc.)
 }
