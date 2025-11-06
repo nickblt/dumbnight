@@ -233,7 +233,7 @@ export function Calendar() {
   }
 
   return (
-    <div className="h-screen w-screen flex flex-col bg-white dark:bg-gray-900">
+    <div className="min-h-screen w-full flex flex-col bg-white dark:bg-gray-900">
       <Header
         loading={loading}
         categoryFilters={categoryFilters}
@@ -248,7 +248,7 @@ export function Calendar() {
         totalCount={allEvents.length}
       />
 
-      <div className="flex-1 min-h-0 p-2 sm:p-4 md:p-5">
+      <div className="p-2 sm:p-4 md:p-5" style={{ height: "2000px" }}>
         <BigCalendar
           localizer={localizer}
           events={events}
