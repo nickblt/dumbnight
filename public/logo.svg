@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="32" height="32">
+  <defs>
+    <linearGradient id="stickGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFA500;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Hockey stick shaft -->
+  <path d="M 75 10 Q 70 15, 65 25 L 40 75 Q 38 80, 35 82"
+        stroke="url(#stickGradient)"
+        stroke-width="6"
+        fill="none"
+        stroke-linecap="round"/>
+  <!-- Hockey stick blade -->
+  <path d="M 35 82 Q 30 85, 25 85 L 10 85 Q 8 85, 8 87 L 8 92 Q 8 94, 10 94 L 30 94 Q 35 94, 38 90 Q 40 87, 35 82 Z"
+        fill="url(#stickGradient)"
+        stroke="#CC8400"
+        stroke-width="1"/>
+</svg>
