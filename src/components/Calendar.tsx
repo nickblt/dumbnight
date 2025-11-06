@@ -248,7 +248,7 @@ export function Calendar() {
         totalCount={allEvents.length}
       />
 
-      <div className="p-2 sm:p-4 md:p-5" style={{ height: "2000px" }}>
+      <div className="p-2 sm:p-4 md:p-5" style={{ height: "1000px" }}>
         <BigCalendar
           localizer={localizer}
           events={events}
