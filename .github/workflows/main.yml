@@ -13,4 +13,5 @@ jobs:
       - uses: actions/checkout@v4
       - uses: jdx/mise-action@v3
       # .tool-versions will be read from repo root
+      - run: pnpm install
       - run: pnpm run build
