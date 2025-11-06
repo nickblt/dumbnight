@@ -1,6 +1,5 @@
 import { format } from "date-fns";
 import type { CalendarEvent } from "../types/api";
-import { getTeamName } from "../hooks/useTeams";
 import { useEffect } from "preact/hooks";
 import { getCategoryConfig } from "../config/categories";
 import type { EventCategory } from "../config/categories";

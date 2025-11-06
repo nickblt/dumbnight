@@ -1,4 +1,8 @@
-import { Calendar as BigCalendar, dateFnsLocalizer } from "react-big-calendar";
+import {
+  Calendar as BigCalendar,
+  dateFnsLocalizer,
+  type View,
+} from "react-big-calendar";
 import { format, parse, startOfWeek, getDay } from "date-fns";
 import { enUS } from "date-fns/locale";
 import { useState, useEffect } from "preact/hooks";
@@ -27,8 +31,6 @@ const localizer = dateFnsLocalizer({
   locales,
 });
 
-type CalendarView = "day" | "week" | "month" | "agenda";
-
 // Helper to parse URL params on initial load
 function getInitialStateFromURL() {
   const params = new URLSearchParams(window.location.search);
@@ -40,8 +42,8 @@ function getInitialStateFromURL() {
     : new Date(); // Default: today's date
 
   // Parse view
-  const viewParam = params.get("view") as CalendarView | null;
-  const initialView: CalendarView =
+  const viewParam = params.get("view") as View | null;
+  const initialView: View =
     viewParam === "day" || viewParam === "week" ? viewParam : "day";
 
   // Parse rink filters
@@ -81,10 +83,10 @@ export function Calendar() {
   const initialState = getInitialStateFromURL();
 
   // Force day view on mobile (screen width < 768px)
-  const isMobile = typeof window !== 'undefined' && window.innerWidth < 768;
-  const effectiveView = isMobile ? 'day' : initialState.view;
+  const isMobile = typeof window !== "undefined" && window.innerWidth < 768;
+  const effectiveView = isMobile ? "day" : initialState.view;
 
-  const [view, setView] = useState<CalendarView>(effectiveView);
+  const [view, setView] = useState<View>(effectiveView);
   const [date, setDate] = useState(initialState.date);
   const [showNHLRink, setShowNHLRink] = useState(initialState.showNHL);
   const [showOlympicRink, setShowOlympicRink] = useState(
@@ -97,12 +99,21 @@ export function Calendar() {
     Record<EventCategory, boolean>
   >(initialState.categoryFilters);
   const [isInitialLoad, setIsInitialLoad] = useState(true);
-  const [selectedEvent, setSelectedEvent] = useState<CalendarEvent | null>(null);
+  const [selectedEvent, setSelectedEvent] = useState<CalendarEvent | null>(
+    null,
+  );
 
   // Enforce day view on mobile if user tries to switch to week
-  const handleViewChange = (newView: CalendarView) => {
-    if (typeof window !== 'undefined' && window.innerWidth < 768 && newView === 'week') {
-      setView('day');
+  const handleViewChange = (newView: View) => {
+    // Only handle views we support
+    if (newView !== "day" && newView !== "week") return;
+
+    if (
+      typeof window !== "undefined" &&
+      window.innerWidth < 768 &&
+      newView === "week"
+    ) {
+      setView("day");
     } else {
       setView(newView);
     }
@@ -248,7 +259,7 @@ export function Calendar() {
           date={date}
           onNavigate={setDate}
           defaultView="day"
-          allDayMaxRows="0"
+          allDayMaxRows={0}
           showMultiDayTimes={true}
           views={["week", "day"]}
           step={15}

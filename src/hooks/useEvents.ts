@@ -1,5 +1,6 @@
 import { useState, useEffect } from "preact/hooks";
 import { format } from "date-fns";
+import type { View } from "react-big-calendar";
 import type { Event, CalendarEvent, Team } from "../types/api";
 import {
   RINK_IDS,
@@ -188,12 +189,12 @@ function deduplicateEvents(
 /**
  * Get date range based on view
  */
-function getDateRange(date: Date, view: "day" | "week" | "month"): Date[] {
-  if (view === "day") {
+function getDateRange(date: Date, view: View): Date[] {
+  if (view === "day" || view === "agenda") {
     return [date];
   }
 
-  if (view === "week") {
+  if (view === "week" || view === "work_week") {
     // Get the week containing this date (Sun-Sat)
     const day = date.getDay(); // 0 = Sunday
     const dates: Date[] = [];
@@ -257,7 +258,7 @@ async function loadEventsForDate(date: Date): Promise<Event[]> {
 /**
  * Load events for a date range with team data
  */
-export function useEvents(date: Date, view: "day" | "week" | "month" = "day") {
+export function useEvents(date: Date, view: View = "day") {
   const [events, setEvents] = useState<CalendarEvent[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<Error | null>(null);
