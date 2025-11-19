@@ -1,4 +1,4 @@
-import { writeFileSync, mkdirSync } from 'fs';
+import { writeFileSync, mkdirSync, existsSync } from 'fs';
 import { join } from 'path';
 import { isHttpError } from './lib/http';
 
@@ -72,4 +72,128 @@ export function parseDate(dateStr: string): Date {
  */
 export function getDataPath(...segments: string[]): string {
   return join(process.cwd(), 'public', 'data', ...segments);
+}
+
+/**
+ * Check if team file already exists
+ */
+export function teamFileExists(teamId: string): boolean {
+  const filePath = getDataPath('teams', `${teamId}.json`);
+  return existsSync(filePath);
+}
+
+/**
+ * Save events to file
+ */
+export function saveEventsToFile(date: Date, events: any[]): void {
+  const dateStr = formatDate(date);
+  const outputPath = getDataPath('events', `${dateStr}.json`);
+
+  saveJsonToFile(outputPath, events);
+  console.log(`✓ Saved to ${outputPath}`);
+}
+
+/**
+ * Save team to file
+ */
+export function saveTeamToFile(teamId: string, teamData: any): void {
+  const outputPath = getDataPath('teams', `${teamId}.json`);
+  saveJsonToFile(outputPath, teamData);
+  console.log(`  ✓ Saved to ${outputPath}`);
+}
+
+/**
+ * Fetch all data (events + teams) for a single day
+ */
+export async function fetchDayData(
+  date: Date,
+  options: { verbose?: boolean } = {}
+): Promise<void> {
+  const { fetchEventsForDay, extractTeamIds } = await import('./lib/events');
+  const { fetchTeam } = await import('./lib/teams');
+  const { verbose = true } = options;
+
+  const dateStr = formatDate(date);
+  if (verbose) {
+    console.log(`\n=== Fetching ${dateStr} ===\n`);
+  }
+
+  // Fetch events
+  const events = await fetchEventsForDay(date);
+
+  // Save events to file
+  saveEventsToFile(date, events);
+
+  // Extract team IDs from events
+  const teamIds = extractTeamIds(events);
+
+  if (teamIds.length === 0) {
+    if (verbose) {
+      console.log('No teams found in events');
+    }
+    return;
+  }
+
+  if (verbose) {
+    console.log(`\nFound ${teamIds.length} unique teams in events`);
+  }
+
+  // Filter out teams that already exist
+  const missingTeamIds = teamIds.filter(id => !teamFileExists(id));
+
+  if (missingTeamIds.length === 0) {
+    if (verbose) {
+      console.log('All teams already cached');
+      console.log(`Already cached: ${teamIds.length}`);
+    }
+    return;
+  }
+
+  if (verbose) {
+    console.log(`Fetching ${missingTeamIds.length} missing teams...\n`);
+  }
+
+  let fetched = 0;
+  let failed = 0;
+
+  for (const teamId of missingTeamIds) {
+    try {
+      if (verbose) {
+        console.log(`Team ${teamId}:`);
+        console.log(`  Fetching team ${teamId}...`);
+      }
+
+      const teamData = await fetchTeam(teamId);
+
+      if (teamData === null) {
+        console.warn(`  Team ${teamId} not found (404)`);
+        failed++;
+        continue;
+      }
+
+      if (verbose) {
+        console.log(`  ✓ Fetched team ${teamId}`);
+      }
+      saveTeamToFile(teamId, teamData);
+      fetched++;
+
+      if (verbose) {
+        console.log('');
+      }
+    } catch (error) {
+      console.error(`  ❌ Failed to fetch team ${teamId}`);
+      failed++;
+    }
+  }
+
+  if (verbose) {
+    console.log('=== Team Summary ===');
+    console.log(`Already cached: ${teamIds.length - missingTeamIds.length}`);
+    console.log(`Newly fetched: ${fetched}`);
+    console.log(`Failed: ${failed}`);
+  }
+
+  if (failed > 0) {
+    throw new Error(`Failed to fetch ${failed} team(s)`);
+  }
 }

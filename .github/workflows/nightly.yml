@@ -1,0 +1,25 @@
+name: nightly-data-fetch
+on:
+  schedule:
+    # Run daily at midnight UTC
+    - cron: "9 0 * * *"
+  workflow_dispatch: # Allow manual triggering
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jdx/mise-action@v3
+      - run: pnpm install
+      - run: pnpm run fetch:nightly
+      - name: Commit and push if changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/
+          git diff --staged --quiet || git commit -m "Update data for $(date -d '+14 days' '+%Y-%m-%d')"
+          git push

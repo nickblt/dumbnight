@@ -9,7 +9,8 @@
     "preview": "vite preview",
     "fetch:day": "tsx scripts/fetch-day.ts",
     "fetch:events": "tsx scripts/fetch-events.ts",
-    "fetch:teams": "tsx scripts/fetch-teams.ts"
+    "fetch:teams": "tsx scripts/fetch-teams.ts",
+    "fetch:nightly": "tsx scripts/fetch-nightly.ts"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.16",
