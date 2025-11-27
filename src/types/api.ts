@@ -47,10 +47,10 @@ export interface Event {
   type: "events";
   id: string;
   attributes: EventAttributes;
-  relationships: Record<string, any>;
-  links: {
+  relationships?: Record<string, any>; // Optional: removed in optimized files
+  links?: {
     self: string;
-  };
+  }; // Optional: removed in optimized files
 }
 
 export interface TeamAttributes {

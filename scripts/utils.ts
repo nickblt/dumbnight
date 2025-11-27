@@ -89,8 +89,15 @@ export function saveEventsToFile(date: Date, events: any[]): void {
   const dateStr = formatDate(date);
   const outputPath = getDataPath('events', `${dateStr}.json`);
 
-  saveJsonToFile(outputPath, events);
-  console.log(`✓ Saved to ${outputPath}`);
+  // Optimize: remove unused relationships and links fields
+  const optimized = events.map(event => ({
+    type: event.type,
+    id: event.id,
+    attributes: event.attributes
+  }));
+
+  saveJsonToFile(outputPath, optimized);
+  console.log(`✓ Saved to ${outputPath} (${events.length} events)`);
 }
 
 /**
@@ -98,7 +105,15 @@ export function saveEventsToFile(date: Date, events: any[]): void {
  */
 export function saveTeamToFile(teamId: string, teamData: any): void {
   const outputPath = getDataPath('teams', `${teamId}.json`);
-  saveJsonToFile(outputPath, teamData);
+
+  // Optimize: remove unused relationships and links fields
+  const optimized = {
+    type: teamData.type,
+    id: teamData.id,
+    attributes: teamData.attributes
+  };
+
+  saveJsonToFile(outputPath, optimized);
   console.log(`  ✓ Saved to ${outputPath}`);
 }
 

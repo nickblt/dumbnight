@@ -1,16 +1,5 @@
-import { parseDate, formatDate, getDataPath, saveJsonToFile } from './utils';
+import { parseDate, saveEventsToFile } from './utils';
 import { fetchEventsForDay } from './lib/events';
-
-/**
- * Save events to file
- */
-function saveEventsToFile(date: Date, events: any[]): void {
-  const dateStr = formatDate(date);
-  const outputPath = getDataPath('events', `${dateStr}.json`);
-
-  saveJsonToFile(outputPath, events);
-  console.log(`✓ Saved to ${outputPath}`);
-}
 
 /**
  * CLI wrapper for fetching events
