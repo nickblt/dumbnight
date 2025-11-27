@@ -1,7 +1,7 @@
 [
   {
     "type": "events",
-    "id": "261647",
+    "id": "261652",
     "attributes": {
       "repeat_id": 261643,
       "resource_id": 25,
@@ -9,10 +9,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T06:00:00",
-      "start_gmt": "2025-12-05T14:00:00",
-      "end": "2025-12-05T07:00:00",
-      "end_gmt": "2025-12-05T15:00:00",
+      "start": "2025-12-12T06:00:00",
+      "start_gmt": "2025-12-12T14:00:00",
+      "end": "2025-12-12T07:00:00",
+      "end_gmt": "2025-12-12T15:00:00",
       "customer_id": 0,
       "hteam_id": 9429,
       "vteam_id": null,
@@ -38,7 +38,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "06:00:00",
       "best_description": "<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; line-height: 107%; font-family: 'Verdana',sans-serif; color: black; background: white;\">-The session is for Figure Skaters</span><strong><u><span style=\"font-family: 'Verdana',sans-serif; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi;\">&nbsp;FS1 or higher.<br /></span></u></strong><strong><span style=\"font-family: 'Verdana',sans-serif; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; font-weight: normal;\">-Priority of right of way is in the following order:<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1) Skaters in Programs<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2) Skaters in Lesson<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3) All other freestyle skaters<br />-Please be mindful of your surroundings</span></strong></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; line-height: 107%; font-family: 'Verdana',sans-serif; color: black;\"><br /><strong><span style=\"background: white;\"><span style=\"font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; text-align: start; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; word-spacing: 0px;\">Freestyle Rules:</span></span></strong></span></p>\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 10.5pt; line-height: 107%; font-family: 'Verdana',sans-serif; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; color: black; background: white;\">-&nbsp;All&nbsp;<u>Skaters must check in</u>&nbsp;at Front desk before entering Ice</span></strong><strong><span style=\"font-size: 10.5pt; line-height: 107%; font-family: 'Verdana',sans-serif; color: black; background: white;\"><br /><strong>- NO Virtual/Zoom Lessons</strong></span></strong><span style=\"font-size: 10.5pt; line-height: 107%; font-family: 'Verdana',sans-serif; color: black;\"><br /><strong><span style=\"font-family: 'Verdana',sans-serif; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; background: white;\">- NO Refunds, Credits, Session changes or exchanges.</span></strong><strong><span style=\"background: white;\"><br /><strong>- NO Waitlist for Full Sessions</strong></span></strong></span></p>"
     },
@@ -75,12 +75,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/261647"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/261652"
     }
   },
   {
     "type": "events",
-    "id": "263029",
+    "id": "263031",
     "attributes": {
       "repeat_id": 263029,
       "resource_id": 24,
@@ -88,10 +88,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T06:00:00",
-      "start_gmt": "2025-12-05T14:00:00",
-      "end": "2025-12-05T07:30:00",
-      "end_gmt": "2025-12-05T15:30:00",
+      "start": "2025-12-12T06:00:00",
+      "start_gmt": "2025-12-12T14:00:00",
+      "end": "2025-12-12T07:30:00",
+      "end_gmt": "2025-12-12T15:30:00",
       "customer_id": 0,
       "hteam_id": 9456,
       "vteam_id": null,
@@ -117,7 +117,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "06:00:00",
       "best_description": "<p><strong>Drop-In Hockey&nbsp;</strong></p>\n<p>Adult Drop-In Hockey Sessions are ages 18+</p>\n<p>All Players Must Wear Full Gear</p>\n<p>All Players Must Check In At Front Desk</p>\n<p>No Refunds or Credits</p>"
     },
@@ -154,12 +154,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263029"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263031"
     }
   },
   {
     "type": "events",
-    "id": "263037",
+    "id": "263039",
     "attributes": {
       "repeat_id": 263037,
       "resource_id": 24,
@@ -167,10 +167,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T06:00:00",
-      "start_gmt": "2025-12-05T14:00:00",
-      "end": "2025-12-05T07:30:00",
-      "end_gmt": "2025-12-05T15:30:00",
+      "start": "2025-12-12T06:00:00",
+      "start_gmt": "2025-12-12T14:00:00",
+      "end": "2025-12-12T07:30:00",
+      "end_gmt": "2025-12-12T15:30:00",
       "customer_id": 0,
       "hteam_id": 9457,
       "vteam_id": null,
@@ -196,7 +196,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "06:00:00",
       "best_description": "<p><strong>Drop-In Hockey&nbsp;</strong></p>\n<p>Adult Drop-In Hockey Sessions are ages 18+</p>\n<p>All Players Must Wear Full Gear</p>\n<p>All Players Must Check In At Front Desk</p>\n<p>No Refunds or Credits</p>"
     },
@@ -233,12 +233,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263037"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263039"
     }
   },
   {
     "type": "events",
-    "id": "263045",
+    "id": "263046",
     "attributes": {
       "repeat_id": 263045,
       "resource_id": 26,
@@ -246,10 +246,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T06:00:00",
-      "start_gmt": "2025-12-05T14:00:00",
-      "end": "2025-12-05T07:30:00",
-      "end_gmt": "2025-12-05T15:30:00",
+      "start": "2025-12-12T06:00:00",
+      "start_gmt": "2025-12-12T14:00:00",
+      "end": "2025-12-12T07:30:00",
+      "end_gmt": "2025-12-12T15:30:00",
       "customer_id": 0,
       "hteam_id": 9456,
       "vteam_id": null,
@@ -270,12 +270,12 @@
       "description": null,
       "notice": null,
       "last_resource_id": null,
-      "parent_event_id": 263029,
+      "parent_event_id": 263031,
       "has_gender_locker_rooms": 0,
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "06:00:00",
       "best_description": "<p><strong>Drop-In Hockey&nbsp;</strong></p>\n<p>Adult Drop-In Hockey Sessions are ages 18+</p>\n<p>All Players Must Wear Full Gear</p>\n<p>All Players Must Check In At Front Desk</p>\n<p>No Refunds or Credits</p>"
     },
@@ -312,12 +312,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263045"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263046"
     }
   },
   {
     "type": "events",
-    "id": "263049",
+    "id": "263050",
     "attributes": {
       "repeat_id": 263049,
       "resource_id": 31,
@@ -325,10 +325,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T06:00:00",
-      "start_gmt": "2025-12-05T14:00:00",
-      "end": "2025-12-05T07:30:00",
-      "end_gmt": "2025-12-05T15:30:00",
+      "start": "2025-12-12T06:00:00",
+      "start_gmt": "2025-12-12T14:00:00",
+      "end": "2025-12-12T07:30:00",
+      "end_gmt": "2025-12-12T15:30:00",
       "customer_id": 0,
       "hteam_id": 9456,
       "vteam_id": null,
@@ -349,12 +349,12 @@
       "description": null,
       "notice": null,
       "last_resource_id": null,
-      "parent_event_id": 263029,
+      "parent_event_id": 263031,
       "has_gender_locker_rooms": 0,
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "06:00:00",
       "best_description": "<p><strong>Drop-In Hockey&nbsp;</strong></p>\n<p>Adult Drop-In Hockey Sessions are ages 18+</p>\n<p>All Players Must Wear Full Gear</p>\n<p>All Players Must Check In At Front Desk</p>\n<p>No Refunds or Credits</p>"
     },
@@ -391,12 +391,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263049"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263050"
     }
   },
   {
     "type": "events",
-    "id": "261674",
+    "id": "261684",
     "attributes": {
       "repeat_id": 261666,
       "resource_id": 25,
@@ -404,10 +404,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T07:00:00",
-      "start_gmt": "2025-12-05T15:00:00",
-      "end": "2025-12-05T08:00:00",
-      "end_gmt": "2025-12-05T16:00:00",
+      "start": "2025-12-12T07:00:00",
+      "start_gmt": "2025-12-12T15:00:00",
+      "end": "2025-12-12T08:00:00",
+      "end_gmt": "2025-12-12T16:00:00",
       "customer_id": 0,
       "hteam_id": 9429,
       "vteam_id": null,
@@ -419,7 +419,7 @@
       "register_capacity": 0,
       "create_u": "ssimon",
       "created_user_type": "SIT_Employee",
-      "create_d": "2025-11-22T08:04:21",
+      "create_d": "2025-11-22T08:04:22",
       "mod_u": "ssimon",
       "last_modified_user_type": "SIT_Employee",
       "mod_d": "2025-11-22T08:04:22",
@@ -433,7 +433,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "07:00:00",
       "best_description": "<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; line-height: 107%; font-family: 'Verdana',sans-serif; color: black; background: white;\">-The session is for Figure Skaters</span><strong><u><span style=\"font-family: 'Verdana',sans-serif; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi;\">&nbsp;FS1 or higher.<br /></span></u></strong><strong><span style=\"font-family: 'Verdana',sans-serif; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; font-weight: normal;\">-Priority of right of way is in the following order:<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1) Skaters in Programs<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2) Skaters in Lesson<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3) All other freestyle skaters<br />-Please be mindful of your surroundings</span></strong></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; line-height: 107%; font-family: 'Verdana',sans-serif; color: black;\"><br /><strong><span style=\"background: white;\"><span style=\"font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; text-align: start; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; word-spacing: 0px;\">Freestyle Rules:</span></span></strong></span></p>\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 10.5pt; line-height: 107%; font-family: 'Verdana',sans-serif; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; color: black; background: white;\">-&nbsp;All&nbsp;<u>Skaters must check in</u>&nbsp;at Front desk before entering Ice</span></strong><strong><span style=\"font-size: 10.5pt; line-height: 107%; font-family: 'Verdana',sans-serif; color: black; background: white;\"><br /><strong>- NO Virtual/Zoom Lessons</strong></span></strong><span style=\"font-size: 10.5pt; line-height: 107%; font-family: 'Verdana',sans-serif; color: black;\"><br /><strong><span style=\"font-family: 'Verdana',sans-serif; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; background: white;\">- NO Refunds, Credits, Session changes or exchanges.</span></strong><strong><span style=\"background: white;\"><br /><strong>- NO Waitlist for Full Sessions</strong></span></strong></span></p>"
     },
@@ -470,12 +470,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/261674"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/261684"
     }
   },
   {
     "type": "events",
-    "id": "263053",
+    "id": "263055",
     "attributes": {
       "repeat_id": 263053,
       "resource_id": 24,
@@ -483,10 +483,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T07:45:00",
-      "start_gmt": "2025-12-05T15:45:00",
-      "end": "2025-12-05T09:15:00",
-      "end_gmt": "2025-12-05T17:15:00",
+      "start": "2025-12-12T07:45:00",
+      "start_gmt": "2025-12-12T15:45:00",
+      "end": "2025-12-12T09:15:00",
+      "end_gmt": "2025-12-12T17:15:00",
       "customer_id": 0,
       "hteam_id": 9458,
       "vteam_id": null,
@@ -512,7 +512,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "07:45:00",
       "best_description": "<p><strong>OIC - Gretzky Hour</strong><br /><br />Full Hockey Gear Required<br /><br /></p>\n<p>Each player is required to check in at the front desk before each session and must wear their sticker receipt visible on their pants. Full USA Hockey Certified equipment is required.</p>\n<p>Limit 40 skaters and 4 goalies.</p>\n<p>Program Fee: $21 per session</p>\n<p>Players and Goalies must pay the full fee per session.</p>\n<p><u><strong>No outside or private coaches are allowed on the ice at any time.</strong></u> - Unless approved through management.</p>"
     },
@@ -549,12 +549,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263053"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263055"
     }
   },
   {
     "type": "events",
-    "id": "263061",
+    "id": "263062",
     "attributes": {
       "repeat_id": 263061,
       "resource_id": 30,
@@ -562,10 +562,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T07:45:00",
-      "start_gmt": "2025-12-05T15:45:00",
-      "end": "2025-12-05T09:15:00",
-      "end_gmt": "2025-12-05T17:15:00",
+      "start": "2025-12-12T07:45:00",
+      "start_gmt": "2025-12-12T15:45:00",
+      "end": "2025-12-12T09:15:00",
+      "end_gmt": "2025-12-12T17:15:00",
       "customer_id": 0,
       "hteam_id": 9458,
       "vteam_id": null,
@@ -586,12 +586,12 @@
       "description": null,
       "notice": null,
       "last_resource_id": null,
-      "parent_event_id": 263053,
+      "parent_event_id": 263055,
       "has_gender_locker_rooms": 0,
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "07:45:00",
       "best_description": "<p><strong>OIC - Gretzky Hour</strong><br /><br />Full Hockey Gear Required<br /><br /></p>\n<p>Each player is required to check in at the front desk before each session and must wear their sticker receipt visible on their pants. Full USA Hockey Certified equipment is required.</p>\n<p>Limit 40 skaters and 4 goalies.</p>\n<p>Program Fee: $21 per session</p>\n<p>Players and Goalies must pay the full fee per session.</p>\n<p><u><strong>No outside or private coaches are allowed on the ice at any time.</strong></u> - Unless approved through management.</p>"
     },
@@ -628,12 +628,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263061"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263062"
     }
   },
   {
     "type": "events",
-    "id": "263065",
+    "id": "263066",
     "attributes": {
       "repeat_id": 263065,
       "resource_id": 28,
@@ -641,10 +641,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T07:45:00",
-      "start_gmt": "2025-12-05T15:45:00",
-      "end": "2025-12-05T09:15:00",
-      "end_gmt": "2025-12-05T17:15:00",
+      "start": "2025-12-12T07:45:00",
+      "start_gmt": "2025-12-12T15:45:00",
+      "end": "2025-12-12T09:15:00",
+      "end_gmt": "2025-12-12T17:15:00",
       "customer_id": 0,
       "hteam_id": 9458,
       "vteam_id": null,
@@ -665,12 +665,12 @@
       "description": null,
       "notice": null,
       "last_resource_id": null,
-      "parent_event_id": 263053,
+      "parent_event_id": 263055,
       "has_gender_locker_rooms": 0,
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "07:45:00",
       "best_description": "<p><strong>OIC - Gretzky Hour</strong><br /><br />Full Hockey Gear Required<br /><br /></p>\n<p>Each player is required to check in at the front desk before each session and must wear their sticker receipt visible on their pants. Full USA Hockey Certified equipment is required.</p>\n<p>Limit 40 skaters and 4 goalies.</p>\n<p>Program Fee: $21 per session</p>\n<p>Players and Goalies must pay the full fee per session.</p>\n<p><u><strong>No outside or private coaches are allowed on the ice at any time.</strong></u> - Unless approved through management.</p>"
     },
@@ -707,12 +707,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263065"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263066"
     }
   },
   {
     "type": "events",
-    "id": "261891",
+    "id": "261898",
     "attributes": {
       "repeat_id": 261887,
       "resource_id": 62,
@@ -720,10 +720,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T08:00:00",
-      "start_gmt": "2025-12-05T16:00:00",
-      "end": "2025-12-05T08:30:00",
-      "end_gmt": "2025-12-05T16:30:00",
+      "start": "2025-12-12T08:00:00",
+      "start_gmt": "2025-12-12T16:00:00",
+      "end": "2025-12-12T08:30:00",
+      "end_gmt": "2025-12-12T16:30:00",
       "customer_id": 0,
       "hteam_id": 9418,
       "vteam_id": null,
@@ -749,7 +749,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "08:00:00",
       "best_description": null
     },
@@ -786,12 +786,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/261891"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/261898"
     }
   },
   {
     "type": "events",
-    "id": "264455",
+    "id": "264462",
     "attributes": {
       "repeat_id": 264451,
       "resource_id": 62,
@@ -799,10 +799,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T08:00:00",
-      "start_gmt": "2025-12-05T16:00:00",
-      "end": "2025-12-05T09:00:00",
-      "end_gmt": "2025-12-05T17:00:00",
+      "start": "2025-12-12T08:00:00",
+      "start_gmt": "2025-12-12T16:00:00",
+      "end": "2025-12-12T09:00:00",
+      "end_gmt": "2025-12-12T17:00:00",
       "customer_id": 0,
       "hteam_id": 9475,
       "vteam_id": null,
@@ -828,7 +828,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "08:00:00",
       "best_description": null
     },
@@ -865,12 +865,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264455"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264462"
     }
   },
   {
     "type": "events",
-    "id": "261716",
+    "id": "261721",
     "attributes": {
       "repeat_id": 261712,
       "resource_id": 25,
@@ -878,10 +878,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T08:15:00",
-      "start_gmt": "2025-12-05T16:15:00",
-      "end": "2025-12-05T09:15:00",
-      "end_gmt": "2025-12-05T17:15:00",
+      "start": "2025-12-12T08:15:00",
+      "start_gmt": "2025-12-12T16:15:00",
+      "end": "2025-12-12T09:15:00",
+      "end_gmt": "2025-12-12T17:15:00",
       "customer_id": 0,
       "hteam_id": 9429,
       "vteam_id": null,
@@ -907,7 +907,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "08:15:00",
       "best_description": "<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; line-height: 107%; font-family: 'Verdana',sans-serif; color: black; background: white;\">-The session is for Figure Skaters</span><strong><u><span style=\"font-family: 'Verdana',sans-serif; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi;\">&nbsp;FS1 or higher.<br /></span></u></strong><strong><span style=\"font-family: 'Verdana',sans-serif; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; font-weight: normal;\">-Priority of right of way is in the following order:<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1) Skaters in Programs<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2) Skaters in Lesson<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3) All other freestyle skaters<br />-Please be mindful of your surroundings</span></strong></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; line-height: 107%; font-family: 'Verdana',sans-serif; color: black;\"><br /><strong><span style=\"background: white;\"><span style=\"font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; text-align: start; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; word-spacing: 0px;\">Freestyle Rules:</span></span></strong></span></p>\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 10.5pt; line-height: 107%; font-family: 'Verdana',sans-serif; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; color: black; background: white;\">-&nbsp;All&nbsp;<u>Skaters must check in</u>&nbsp;at Front desk before entering Ice</span></strong><strong><span style=\"font-size: 10.5pt; line-height: 107%; font-family: 'Verdana',sans-serif; color: black; background: white;\"><br /><strong>- NO Virtual/Zoom Lessons</strong></span></strong><span style=\"font-size: 10.5pt; line-height: 107%; font-family: 'Verdana',sans-serif; color: black;\"><br /><strong><span style=\"font-family: 'Verdana',sans-serif; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; background: white;\">- NO Refunds, Credits, Session changes or exchanges.</span></strong><strong><span style=\"background: white;\"><br /><strong>- NO Waitlist for Full Sessions</strong></span></strong></span></p>"
     },
@@ -944,12 +944,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/261716"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/261721"
     }
   },
   {
     "type": "events",
-    "id": "261922",
+    "id": "261929",
     "attributes": {
       "repeat_id": 261918,
       "resource_id": 62,
@@ -957,10 +957,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T08:30:00",
-      "start_gmt": "2025-12-05T16:30:00",
-      "end": "2025-12-05T09:00:00",
-      "end_gmt": "2025-12-05T17:00:00",
+      "start": "2025-12-12T08:30:00",
+      "start_gmt": "2025-12-12T16:30:00",
+      "end": "2025-12-12T09:00:00",
+      "end_gmt": "2025-12-12T17:00:00",
       "customer_id": 0,
       "hteam_id": 9418,
       "vteam_id": null,
@@ -986,7 +986,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "08:30:00",
       "best_description": null
     },
@@ -1023,12 +1023,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/261922"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/261929"
     }
   },
   {
     "type": "events",
-    "id": "261953",
+    "id": "261960",
     "attributes": {
       "repeat_id": 261949,
       "resource_id": 62,
@@ -1036,10 +1036,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T09:00:00",
-      "start_gmt": "2025-12-05T17:00:00",
-      "end": "2025-12-05T09:30:00",
-      "end_gmt": "2025-12-05T17:30:00",
+      "start": "2025-12-12T09:00:00",
+      "start_gmt": "2025-12-12T17:00:00",
+      "end": "2025-12-12T09:30:00",
+      "end_gmt": "2025-12-12T17:30:00",
       "customer_id": 0,
       "hteam_id": 9418,
       "vteam_id": null,
@@ -1065,7 +1065,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "09:00:00",
       "best_description": null
     },
@@ -1102,12 +1102,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/261953"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/261960"
     }
   },
   {
     "type": "events",
-    "id": "264486",
+    "id": "264493",
     "attributes": {
       "repeat_id": 264482,
       "resource_id": 62,
@@ -1115,10 +1115,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T09:00:00",
-      "start_gmt": "2025-12-05T17:00:00",
-      "end": "2025-12-05T10:00:00",
-      "end_gmt": "2025-12-05T18:00:00",
+      "start": "2025-12-12T09:00:00",
+      "start_gmt": "2025-12-12T17:00:00",
+      "end": "2025-12-12T10:00:00",
+      "end_gmt": "2025-12-12T18:00:00",
       "customer_id": 0,
       "hteam_id": 9475,
       "vteam_id": null,
@@ -1144,7 +1144,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "09:00:00",
       "best_description": null
     },
@@ -1181,12 +1181,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264486"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264493"
     }
   },
   {
     "type": "events",
-    "id": "261743",
+    "id": "261753",
     "attributes": {
       "repeat_id": 261735,
       "resource_id": 25,
@@ -1194,10 +1194,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T09:15:00",
-      "start_gmt": "2025-12-05T17:15:00",
-      "end": "2025-12-05T10:15:00",
-      "end_gmt": "2025-12-05T18:15:00",
+      "start": "2025-12-12T09:15:00",
+      "start_gmt": "2025-12-12T17:15:00",
+      "end": "2025-12-12T10:15:00",
+      "end_gmt": "2025-12-12T18:15:00",
       "customer_id": 0,
       "hteam_id": 9429,
       "vteam_id": null,
@@ -1223,7 +1223,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "09:15:00",
       "best_description": "<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; line-height: 107%; font-family: 'Verdana',sans-serif; color: black; background: white;\">-The session is for Figure Skaters</span><strong><u><span style=\"font-family: 'Verdana',sans-serif; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi;\">&nbsp;FS1 or higher.<br /></span></u></strong><strong><span style=\"font-family: 'Verdana',sans-serif; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; font-weight: normal;\">-Priority of right of way is in the following order:<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1) Skaters in Programs<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2) Skaters in Lesson<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3) All other freestyle skaters<br />-Please be mindful of your surroundings</span></strong></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; line-height: 107%; font-family: 'Verdana',sans-serif; color: black;\"><br /><strong><span style=\"background: white;\"><span style=\"font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; text-align: start; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; word-spacing: 0px;\">Freestyle Rules:</span></span></strong></span></p>\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 10.5pt; line-height: 107%; font-family: 'Verdana',sans-serif; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; color: black; background: white;\">-&nbsp;All&nbsp;<u>Skaters must check in</u>&nbsp;at Front desk before entering Ice</span></strong><strong><span style=\"font-size: 10.5pt; line-height: 107%; font-family: 'Verdana',sans-serif; color: black; background: white;\"><br /><strong>- NO Virtual/Zoom Lessons</strong></span></strong><span style=\"font-size: 10.5pt; line-height: 107%; font-family: 'Verdana',sans-serif; color: black;\"><br /><strong><span style=\"font-family: 'Verdana',sans-serif; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; background: white;\">- NO Refunds, Credits, Session changes or exchanges.</span></strong><strong><span style=\"background: white;\"><br /><strong>- NO Waitlist for Full Sessions</strong></span></strong></span></p>"
     },
@@ -1260,12 +1260,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/261743"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/261753"
     }
   },
   {
     "type": "events",
-    "id": "261984",
+    "id": "261991",
     "attributes": {
       "repeat_id": 261980,
       "resource_id": 62,
@@ -1273,10 +1273,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T09:30:00",
-      "start_gmt": "2025-12-05T17:30:00",
-      "end": "2025-12-05T10:00:00",
-      "end_gmt": "2025-12-05T18:00:00",
+      "start": "2025-12-12T09:30:00",
+      "start_gmt": "2025-12-12T17:30:00",
+      "end": "2025-12-12T10:00:00",
+      "end_gmt": "2025-12-12T18:00:00",
       "customer_id": 0,
       "hteam_id": 9418,
       "vteam_id": null,
@@ -1302,7 +1302,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "09:30:00",
       "best_description": null
     },
@@ -1339,12 +1339,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/261984"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/261991"
     }
   },
   {
     "type": "events",
-    "id": "263069",
+    "id": "263070",
     "attributes": {
       "repeat_id": 263069,
       "resource_id": 24,
@@ -1352,10 +1352,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T09:30:00",
-      "start_gmt": "2025-12-05T17:30:00",
-      "end": "2025-12-05T10:30:00",
-      "end_gmt": "2025-12-05T18:30:00",
+      "start": "2025-12-12T09:30:00",
+      "start_gmt": "2025-12-12T17:30:00",
+      "end": "2025-12-12T10:30:00",
+      "end_gmt": "2025-12-12T18:30:00",
       "customer_id": 0,
       "hteam_id": 9459,
       "vteam_id": null,
@@ -1381,7 +1381,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "09:30:00",
       "best_description": "<p><strong>Private Hockey Lessons</strong></p>\n<p>Players must be on the ice with a Sharks Ice private coach!&nbsp;</p>"
     },
@@ -1418,12 +1418,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263069"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263070"
     }
   },
   {
     "type": "events",
-    "id": "263073",
+    "id": "263074",
     "attributes": {
       "repeat_id": 263073,
       "resource_id": 26,
@@ -1431,10 +1431,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T09:30:00",
-      "start_gmt": "2025-12-05T17:30:00",
-      "end": "2025-12-05T10:30:00",
-      "end_gmt": "2025-12-05T18:30:00",
+      "start": "2025-12-12T09:30:00",
+      "start_gmt": "2025-12-12T17:30:00",
+      "end": "2025-12-12T10:30:00",
+      "end_gmt": "2025-12-12T18:30:00",
       "customer_id": 0,
       "hteam_id": 9459,
       "vteam_id": null,
@@ -1455,12 +1455,12 @@
       "description": null,
       "notice": null,
       "last_resource_id": null,
-      "parent_event_id": 263069,
+      "parent_event_id": 263070,
       "has_gender_locker_rooms": 0,
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "09:30:00",
       "best_description": "<p><strong>Private Hockey Lessons</strong></p>\n<p>Players must be on the ice with a Sharks Ice private coach!&nbsp;</p>"
     },
@@ -1497,12 +1497,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263073"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263074"
     }
   },
   {
     "type": "events",
-    "id": "263077",
+    "id": "263078",
     "attributes": {
       "repeat_id": 263077,
       "resource_id": 31,
@@ -1510,10 +1510,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T09:30:00",
-      "start_gmt": "2025-12-05T17:30:00",
-      "end": "2025-12-05T10:30:00",
-      "end_gmt": "2025-12-05T18:30:00",
+      "start": "2025-12-12T09:30:00",
+      "start_gmt": "2025-12-12T17:30:00",
+      "end": "2025-12-12T10:30:00",
+      "end_gmt": "2025-12-12T18:30:00",
       "customer_id": 0,
       "hteam_id": 9459,
       "vteam_id": null,
@@ -1534,12 +1534,12 @@
       "description": null,
       "notice": null,
       "last_resource_id": null,
-      "parent_event_id": 263069,
+      "parent_event_id": 263070,
       "has_gender_locker_rooms": 0,
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "09:30:00",
       "best_description": "<p><strong>Private Hockey Lessons</strong></p>\n<p>Players must be on the ice with a Sharks Ice private coach!&nbsp;</p>"
     },
@@ -1576,12 +1576,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263077"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263078"
     }
   },
   {
     "type": "events",
-    "id": "262015",
+    "id": "262022",
     "attributes": {
       "repeat_id": 262011,
       "resource_id": 62,
@@ -1589,10 +1589,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T10:00:00",
-      "start_gmt": "2025-12-05T18:00:00",
-      "end": "2025-12-05T10:30:00",
-      "end_gmt": "2025-12-05T18:30:00",
+      "start": "2025-12-12T10:00:00",
+      "start_gmt": "2025-12-12T18:00:00",
+      "end": "2025-12-12T10:30:00",
+      "end_gmt": "2025-12-12T18:30:00",
       "customer_id": 0,
       "hteam_id": 9418,
       "vteam_id": null,
@@ -1604,10 +1604,10 @@
       "register_capacity": 0,
       "create_u": "ssimon",
       "created_user_type": "SIT_Employee",
-      "create_d": "2025-11-22T13:04:17",
+      "create_d": "2025-11-22T13:04:18",
       "mod_u": "ssimon",
       "last_modified_user_type": "SIT_Employee",
-      "mod_d": "2025-11-22T13:04:17",
+      "mod_d": "2025-11-22T13:04:18",
       "is_overtime": false,
       "booking_id": null,
       "description": null,
@@ -1618,7 +1618,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "10:00:00",
       "best_description": null
     },
@@ -1655,12 +1655,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/262015"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/262022"
     }
   },
   {
     "type": "events",
-    "id": "264517",
+    "id": "264524",
     "attributes": {
       "repeat_id": 264513,
       "resource_id": 62,
@@ -1668,10 +1668,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T10:00:00",
-      "start_gmt": "2025-12-05T18:00:00",
-      "end": "2025-12-05T11:00:00",
-      "end_gmt": "2025-12-05T19:00:00",
+      "start": "2025-12-12T10:00:00",
+      "start_gmt": "2025-12-12T18:00:00",
+      "end": "2025-12-12T11:00:00",
+      "end_gmt": "2025-12-12T19:00:00",
       "customer_id": 0,
       "hteam_id": 9475,
       "vteam_id": null,
@@ -1697,7 +1697,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "10:00:00",
       "best_description": null
     },
@@ -1734,12 +1734,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264517"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264524"
     }
   },
   {
     "type": "events",
-    "id": "258928",
+    "id": "258938",
     "attributes": {
       "repeat_id": 258920,
       "resource_id": 25,
@@ -1747,10 +1747,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T10:30:00",
-      "start_gmt": "2025-12-05T18:30:00",
-      "end": "2025-12-05T12:30:00",
-      "end_gmt": "2025-12-05T20:30:00",
+      "start": "2025-12-12T10:30:00",
+      "start_gmt": "2025-12-12T18:30:00",
+      "end": "2025-12-12T12:30:00",
+      "end_gmt": "2025-12-12T20:30:00",
       "customer_id": 0,
       "hteam_id": 9417,
       "vteam_id": null,
@@ -1776,7 +1776,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "10:30:00",
       "best_description": null
     },
@@ -1813,12 +1813,170 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/258928"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/258938"
     }
   },
   {
     "type": "events",
-    "id": "262046",
+    "id": "258980",
+    "attributes": {
+      "repeat_id": null,
+      "resource_id": 25,
+      "resource_area_id": 34,
+      "desc": "Media Academy ",
+      "event_type_id": "20",
+      "sub_type": "regular",
+      "start": "2025-12-12T10:30:00",
+      "start_gmt": "2025-12-12T18:30:00",
+      "end": "2025-12-12T12:30:00",
+      "end_gmt": "2025-12-12T20:30:00",
+      "customer_id": 260264,
+      "hteam_id": null,
+      "vteam_id": null,
+      "league_id": null,
+      "home_score": null,
+      "visiting_score": null,
+      "publish": false,
+      "outcome": "",
+      "register_capacity": 0,
+      "create_u": "egarcia",
+      "created_user_type": "SIT_Employee",
+      "create_d": "2025-11-07T15:39:23",
+      "mod_u": "egarcia",
+      "last_modified_user_type": "SIT_Employee",
+      "mod_d": "2025-11-07T15:42:52",
+      "is_overtime": false,
+      "booking_id": 4772,
+      "description": null,
+      "notice": null,
+      "last_resource_id": null,
+      "parent_event_id": null,
+      "has_gender_locker_rooms": 0,
+      "locker_room_type": null,
+      "includes_setup_time": false,
+      "includes_takedown_time": false,
+      "start_date": "2025-12-12T00:00:00",
+      "event_start_time": "10:30:00",
+      "best_description": null
+    },
+    "relationships": {
+      "customer": [],
+      "registrants": [],
+      "registrations": [],
+      "eventType": [],
+      "subType": [],
+      "homeTeam": [],
+      "visitingTeam": [],
+      "summary": [],
+      "league": [],
+      "booking": [],
+      "parentEvent": [],
+      "lockers": [],
+      "lastResource": [],
+      "resource": [],
+      "resourceArea": [],
+      "tasks": [],
+      "teamGroups": [],
+      "eventSeries": [],
+      "statEvents": [],
+      "fees": [],
+      "invoices": [],
+      "seriesInvoices": [],
+      "invoiceItems": [],
+      "employees": [],
+      "eventEmployees": [],
+      "additionalResources": [],
+      "setupEvents": [],
+      "takedownEvents": [],
+      "comments": [],
+      "rsvpStates": []
+    },
+    "links": {
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/258980"
+    }
+  },
+  {
+    "type": "events",
+    "id": "260828",
+    "attributes": {
+      "repeat_id": null,
+      "resource_id": 25,
+      "resource_area_id": 35,
+      "desc": "The Berkeley School (58 youth)",
+      "event_type_id": "20",
+      "sub_type": "regular",
+      "start": "2025-12-12T10:30:00",
+      "start_gmt": "2025-12-12T18:30:00",
+      "end": "2025-12-12T12:30:00",
+      "end_gmt": "2025-12-12T20:30:00",
+      "customer_id": 163787,
+      "hteam_id": null,
+      "vteam_id": null,
+      "league_id": null,
+      "home_score": null,
+      "visiting_score": null,
+      "publish": false,
+      "outcome": "",
+      "register_capacity": 0,
+      "create_u": "egarcia",
+      "created_user_type": "SIT_Employee",
+      "create_d": "2025-11-11T17:22:33",
+      "mod_u": "egarcia",
+      "last_modified_user_type": "SIT_Employee",
+      "mod_d": "2025-11-12T14:12:33",
+      "is_overtime": false,
+      "booking_id": 4799,
+      "description": null,
+      "notice": null,
+      "last_resource_id": null,
+      "parent_event_id": null,
+      "has_gender_locker_rooms": 0,
+      "locker_room_type": null,
+      "includes_setup_time": false,
+      "includes_takedown_time": false,
+      "start_date": "2025-12-12T00:00:00",
+      "event_start_time": "10:30:00",
+      "best_description": null
+    },
+    "relationships": {
+      "customer": [],
+      "registrants": [],
+      "registrations": [],
+      "eventType": [],
+      "subType": [],
+      "homeTeam": [],
+      "visitingTeam": [],
+      "summary": [],
+      "league": [],
+      "booking": [],
+      "parentEvent": [],
+      "lockers": [],
+      "lastResource": [],
+      "resource": [],
+      "resourceArea": [],
+      "tasks": [],
+      "teamGroups": [],
+      "eventSeries": [],
+      "statEvents": [],
+      "fees": [],
+      "invoices": [],
+      "seriesInvoices": [],
+      "invoiceItems": [],
+      "employees": [],
+      "eventEmployees": [],
+      "additionalResources": [],
+      "setupEvents": [],
+      "takedownEvents": [],
+      "comments": [],
+      "rsvpStates": []
+    },
+    "links": {
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/260828"
+    }
+  },
+  {
+    "type": "events",
+    "id": "262053",
     "attributes": {
       "repeat_id": 262042,
       "resource_id": 62,
@@ -1826,10 +1984,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T10:30:00",
-      "start_gmt": "2025-12-05T18:30:00",
-      "end": "2025-12-05T11:00:00",
-      "end_gmt": "2025-12-05T19:00:00",
+      "start": "2025-12-12T10:30:00",
+      "start_gmt": "2025-12-12T18:30:00",
+      "end": "2025-12-12T11:00:00",
+      "end_gmt": "2025-12-12T19:00:00",
       "customer_id": 0,
       "hteam_id": 9418,
       "vteam_id": null,
@@ -1855,7 +2013,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "10:30:00",
       "best_description": null
     },
@@ -1892,12 +2050,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/262046"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/262053"
     }
   },
   {
     "type": "events",
-    "id": "262131",
+    "id": "262141",
     "attributes": {
       "repeat_id": 262125,
       "resource_id": 25,
@@ -1905,10 +2063,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T10:30:00",
-      "start_gmt": "2025-12-05T18:30:00",
-      "end": "2025-12-05T12:30:00",
-      "end_gmt": "2025-12-05T20:30:00",
+      "start": "2025-12-12T10:30:00",
+      "start_gmt": "2025-12-12T18:30:00",
+      "end": "2025-12-12T12:30:00",
+      "end_gmt": "2025-12-12T20:30:00",
       "customer_id": 0,
       "hteam_id": 9432,
       "vteam_id": null,
@@ -1934,7 +2092,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "10:30:00",
       "best_description": null
     },
@@ -1971,12 +2129,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/262131"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/262141"
     }
   },
   {
     "type": "events",
-    "id": "263081",
+    "id": "263083",
     "attributes": {
       "repeat_id": 263081,
       "resource_id": 24,
@@ -1984,10 +2142,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T10:30:00",
-      "start_gmt": "2025-12-05T18:30:00",
-      "end": "2025-12-05T12:00:00",
-      "end_gmt": "2025-12-05T20:00:00",
+      "start": "2025-12-12T10:30:00",
+      "start_gmt": "2025-12-12T18:30:00",
+      "end": "2025-12-12T12:00:00",
+      "end_gmt": "2025-12-12T20:00:00",
       "customer_id": 0,
       "hteam_id": 9458,
       "vteam_id": null,
@@ -2013,7 +2171,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "10:30:00",
       "best_description": "<p><strong>OIC - Gretzky Hour</strong><br /><br />Full Hockey Gear Required<br /><br /></p>\n<p>Each player is required to check in at the front desk before each session and must wear their sticker receipt visible on their pants. Full USA Hockey Certified equipment is required.</p>\n<p>Limit 40 skaters and 4 goalies.</p>\n<p>Program Fee: $21 per session</p>\n<p>Players and Goalies must pay the full fee per session.</p>\n<p><u><strong>No outside or private coaches are allowed on the ice at any time.</strong></u> - Unless approved through management.</p>"
     },
@@ -2050,12 +2208,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263081"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263083"
     }
   },
   {
     "type": "events",
-    "id": "263089",
+    "id": "263090",
     "attributes": {
       "repeat_id": 263089,
       "resource_id": 30,
@@ -2063,10 +2221,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T10:30:00",
-      "start_gmt": "2025-12-05T18:30:00",
-      "end": "2025-12-05T12:00:00",
-      "end_gmt": "2025-12-05T20:00:00",
+      "start": "2025-12-12T10:30:00",
+      "start_gmt": "2025-12-12T18:30:00",
+      "end": "2025-12-12T12:00:00",
+      "end_gmt": "2025-12-12T20:00:00",
       "customer_id": 0,
       "hteam_id": 9458,
       "vteam_id": null,
@@ -2087,12 +2245,12 @@
       "description": null,
       "notice": null,
       "last_resource_id": null,
-      "parent_event_id": 263081,
+      "parent_event_id": 263083,
       "has_gender_locker_rooms": 0,
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "10:30:00",
       "best_description": "<p><strong>OIC - Gretzky Hour</strong><br /><br />Full Hockey Gear Required<br /><br /></p>\n<p>Each player is required to check in at the front desk before each session and must wear their sticker receipt visible on their pants. Full USA Hockey Certified equipment is required.</p>\n<p>Limit 40 skaters and 4 goalies.</p>\n<p>Program Fee: $21 per session</p>\n<p>Players and Goalies must pay the full fee per session.</p>\n<p><u><strong>No outside or private coaches are allowed on the ice at any time.</strong></u> - Unless approved through management.</p>"
     },
@@ -2129,12 +2287,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263089"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263090"
     }
   },
   {
     "type": "events",
-    "id": "263093",
+    "id": "263094",
     "attributes": {
       "repeat_id": 263093,
       "resource_id": 28,
@@ -2142,10 +2300,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T10:30:00",
-      "start_gmt": "2025-12-05T18:30:00",
-      "end": "2025-12-05T12:00:00",
-      "end_gmt": "2025-12-05T20:00:00",
+      "start": "2025-12-12T10:30:00",
+      "start_gmt": "2025-12-12T18:30:00",
+      "end": "2025-12-12T12:00:00",
+      "end_gmt": "2025-12-12T20:00:00",
       "customer_id": 0,
       "hteam_id": 9458,
       "vteam_id": null,
@@ -2166,12 +2324,12 @@
       "description": null,
       "notice": null,
       "last_resource_id": null,
-      "parent_event_id": 263081,
+      "parent_event_id": 263083,
       "has_gender_locker_rooms": 0,
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "10:30:00",
       "best_description": "<p><strong>OIC - Gretzky Hour</strong><br /><br />Full Hockey Gear Required<br /><br /></p>\n<p>Each player is required to check in at the front desk before each session and must wear their sticker receipt visible on their pants. Full USA Hockey Certified equipment is required.</p>\n<p>Limit 40 skaters and 4 goalies.</p>\n<p>Program Fee: $21 per session</p>\n<p>Players and Goalies must pay the full fee per session.</p>\n<p><u><strong>No outside or private coaches are allowed on the ice at any time.</strong></u> - Unless approved through management.</p>"
     },
@@ -2208,12 +2366,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263093"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263094"
     }
   },
   {
     "type": "events",
-    "id": "263715",
+    "id": "263759",
     "attributes": {
       "repeat_id": null,
       "resource_id": 25,
@@ -2221,10 +2379,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T10:30:00",
-      "start_gmt": "2025-12-05T18:30:00",
-      "end": "2025-12-05T12:30:00",
-      "end_gmt": "2025-12-05T20:30:00",
+      "start": "2025-12-12T10:30:00",
+      "start_gmt": "2025-12-12T18:30:00",
+      "end": "2025-12-12T12:30:00",
+      "end_gmt": "2025-12-12T20:30:00",
       "customer_id": 0,
       "hteam_id": 9473,
       "vteam_id": null,
@@ -2236,10 +2394,10 @@
       "register_capacity": 0,
       "create_u": "egarcia",
       "created_user_type": "SIT_Employee",
-      "create_d": "2025-11-24T16:27:43",
+      "create_d": "2025-11-24T16:37:51",
       "mod_u": "egarcia",
       "last_modified_user_type": "SIT_Employee",
-      "mod_d": "2025-11-24T16:27:43",
+      "mod_d": "2025-11-24T16:37:51",
       "is_overtime": false,
       "booking_id": null,
       "description": null,
@@ -2250,7 +2408,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "10:30:00",
       "best_description": null
     },
@@ -2287,12 +2445,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263715"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263759"
     }
   },
   {
     "type": "events",
-    "id": "262077",
+    "id": "262084",
     "attributes": {
       "repeat_id": 262073,
       "resource_id": 62,
@@ -2300,10 +2458,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T11:00:00",
-      "start_gmt": "2025-12-05T19:00:00",
-      "end": "2025-12-05T11:30:00",
-      "end_gmt": "2025-12-05T19:30:00",
+      "start": "2025-12-12T11:00:00",
+      "start_gmt": "2025-12-12T19:00:00",
+      "end": "2025-12-12T11:30:00",
+      "end_gmt": "2025-12-12T19:30:00",
       "customer_id": 0,
       "hteam_id": 9418,
       "vteam_id": null,
@@ -2329,7 +2487,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "11:00:00",
       "best_description": null
     },
@@ -2366,12 +2524,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/262077"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/262084"
     }
   },
   {
     "type": "events",
-    "id": "264548",
+    "id": "264555",
     "attributes": {
       "repeat_id": 264544,
       "resource_id": 62,
@@ -2379,10 +2537,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T11:00:00",
-      "start_gmt": "2025-12-05T19:00:00",
-      "end": "2025-12-05T12:00:00",
-      "end_gmt": "2025-12-05T20:00:00",
+      "start": "2025-12-12T11:00:00",
+      "start_gmt": "2025-12-12T19:00:00",
+      "end": "2025-12-12T12:00:00",
+      "end_gmt": "2025-12-12T20:00:00",
       "customer_id": 0,
       "hteam_id": 9475,
       "vteam_id": null,
@@ -2408,7 +2566,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "11:00:00",
       "best_description": null
     },
@@ -2445,12 +2603,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264548"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264555"
     }
   },
   {
     "type": "events",
-    "id": "263961",
+    "id": "263968",
     "attributes": {
       "repeat_id": 263957,
       "resource_id": 62,
@@ -2458,10 +2616,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T11:30:00",
-      "start_gmt": "2025-12-05T19:30:00",
-      "end": "2025-12-05T12:00:00",
-      "end_gmt": "2025-12-05T20:00:00",
+      "start": "2025-12-12T11:30:00",
+      "start_gmt": "2025-12-12T19:30:00",
+      "end": "2025-12-12T12:00:00",
+      "end_gmt": "2025-12-12T20:00:00",
       "customer_id": 0,
       "hteam_id": 9418,
       "vteam_id": null,
@@ -2487,7 +2645,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "11:30:00",
       "best_description": null
     },
@@ -2524,12 +2682,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263961"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263968"
     }
   },
   {
     "type": "events",
-    "id": "263992",
+    "id": "263999",
     "attributes": {
       "repeat_id": 263988,
       "resource_id": 62,
@@ -2537,10 +2695,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T12:00:00",
-      "start_gmt": "2025-12-05T20:00:00",
-      "end": "2025-12-05T12:30:00",
-      "end_gmt": "2025-12-05T20:30:00",
+      "start": "2025-12-12T12:00:00",
+      "start_gmt": "2025-12-12T20:00:00",
+      "end": "2025-12-12T12:30:00",
+      "end_gmt": "2025-12-12T20:30:00",
       "customer_id": 0,
       "hteam_id": 9418,
       "vteam_id": null,
@@ -2566,7 +2724,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "12:00:00",
       "best_description": null
     },
@@ -2603,12 +2761,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263992"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263999"
     }
   },
   {
     "type": "events",
-    "id": "264579",
+    "id": "264586",
     "attributes": {
       "repeat_id": 264575,
       "resource_id": 62,
@@ -2616,10 +2774,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T12:00:00",
-      "start_gmt": "2025-12-05T20:00:00",
-      "end": "2025-12-05T13:00:00",
-      "end_gmt": "2025-12-05T21:00:00",
+      "start": "2025-12-12T12:00:00",
+      "start_gmt": "2025-12-12T20:00:00",
+      "end": "2025-12-12T13:00:00",
+      "end_gmt": "2025-12-12T21:00:00",
       "customer_id": 0,
       "hteam_id": 9475,
       "vteam_id": null,
@@ -2645,7 +2803,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "12:00:00",
       "best_description": null
     },
@@ -2682,12 +2840,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264579"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264586"
     }
   },
   {
     "type": "events",
-    "id": "263097",
+    "id": "263099",
     "attributes": {
       "repeat_id": 263097,
       "resource_id": 24,
@@ -2695,10 +2853,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T12:15:00",
-      "start_gmt": "2025-12-05T20:15:00",
-      "end": "2025-12-05T13:45:00",
-      "end_gmt": "2025-12-05T21:45:00",
+      "start": "2025-12-12T12:15:00",
+      "start_gmt": "2025-12-12T20:15:00",
+      "end": "2025-12-12T13:45:00",
+      "end_gmt": "2025-12-12T21:45:00",
       "customer_id": 0,
       "hteam_id": 9456,
       "vteam_id": null,
@@ -2724,7 +2882,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "12:15:00",
       "best_description": "<p><strong>Drop-In Hockey&nbsp;</strong></p>\n<p>Adult Drop-In Hockey Sessions are ages 18+</p>\n<p>All Players Must Wear Full Gear</p>\n<p>All Players Must Check In At Front Desk</p>\n<p>No Refunds or Credits</p>"
     },
@@ -2761,12 +2919,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263097"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263099"
     }
   },
   {
     "type": "events",
-    "id": "263105",
+    "id": "263107",
     "attributes": {
       "repeat_id": 263105,
       "resource_id": 24,
@@ -2774,10 +2932,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T12:15:00",
-      "start_gmt": "2025-12-05T20:15:00",
-      "end": "2025-12-05T13:45:00",
-      "end_gmt": "2025-12-05T21:45:00",
+      "start": "2025-12-12T12:15:00",
+      "start_gmt": "2025-12-12T20:15:00",
+      "end": "2025-12-12T13:45:00",
+      "end_gmt": "2025-12-12T21:45:00",
       "customer_id": 0,
       "hteam_id": 9457,
       "vteam_id": null,
@@ -2803,7 +2961,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "12:15:00",
       "best_description": "<p><strong>Drop-In Hockey&nbsp;</strong></p>\n<p>Adult Drop-In Hockey Sessions are ages 18+</p>\n<p>All Players Must Wear Full Gear</p>\n<p>All Players Must Check In At Front Desk</p>\n<p>No Refunds or Credits</p>"
     },
@@ -2840,12 +2998,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263105"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263107"
     }
   },
   {
     "type": "events",
-    "id": "263113",
+    "id": "263114",
     "attributes": {
       "repeat_id": 263113,
       "resource_id": 26,
@@ -2853,10 +3011,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T12:15:00",
-      "start_gmt": "2025-12-05T20:15:00",
-      "end": "2025-12-05T13:45:00",
-      "end_gmt": "2025-12-05T21:45:00",
+      "start": "2025-12-12T12:15:00",
+      "start_gmt": "2025-12-12T20:15:00",
+      "end": "2025-12-12T13:45:00",
+      "end_gmt": "2025-12-12T21:45:00",
       "customer_id": 0,
       "hteam_id": 9456,
       "vteam_id": null,
@@ -2877,12 +3035,12 @@
       "description": null,
       "notice": null,
       "last_resource_id": null,
-      "parent_event_id": 263097,
+      "parent_event_id": 263099,
       "has_gender_locker_rooms": 0,
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "12:15:00",
       "best_description": "<p><strong>Drop-In Hockey&nbsp;</strong></p>\n<p>Adult Drop-In Hockey Sessions are ages 18+</p>\n<p>All Players Must Wear Full Gear</p>\n<p>All Players Must Check In At Front Desk</p>\n<p>No Refunds or Credits</p>"
     },
@@ -2919,12 +3077,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263113"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263114"
     }
   },
   {
     "type": "events",
-    "id": "263117",
+    "id": "263118",
     "attributes": {
       "repeat_id": 263117,
       "resource_id": 31,
@@ -2932,10 +3090,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T12:15:00",
-      "start_gmt": "2025-12-05T20:15:00",
-      "end": "2025-12-05T13:45:00",
-      "end_gmt": "2025-12-05T21:45:00",
+      "start": "2025-12-12T12:15:00",
+      "start_gmt": "2025-12-12T20:15:00",
+      "end": "2025-12-12T13:45:00",
+      "end_gmt": "2025-12-12T21:45:00",
       "customer_id": 0,
       "hteam_id": 9456,
       "vteam_id": null,
@@ -2956,12 +3114,12 @@
       "description": null,
       "notice": null,
       "last_resource_id": null,
-      "parent_event_id": 263097,
+      "parent_event_id": 263099,
       "has_gender_locker_rooms": 0,
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "12:15:00",
       "best_description": "<p><strong>Drop-In Hockey&nbsp;</strong></p>\n<p>Adult Drop-In Hockey Sessions are ages 18+</p>\n<p>All Players Must Wear Full Gear</p>\n<p>All Players Must Check In At Front Desk</p>\n<p>No Refunds or Credits</p>"
     },
@@ -2998,12 +3156,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263117"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263118"
     }
   },
   {
     "type": "events",
-    "id": "264023",
+    "id": "264030",
     "attributes": {
       "repeat_id": 264019,
       "resource_id": 62,
@@ -3011,10 +3169,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T12:30:00",
-      "start_gmt": "2025-12-05T20:30:00",
-      "end": "2025-12-05T13:00:00",
-      "end_gmt": "2025-12-05T21:00:00",
+      "start": "2025-12-12T12:30:00",
+      "start_gmt": "2025-12-12T20:30:00",
+      "end": "2025-12-12T13:00:00",
+      "end_gmt": "2025-12-12T21:00:00",
       "customer_id": 0,
       "hteam_id": 9418,
       "vteam_id": null,
@@ -3026,10 +3184,10 @@
       "register_capacity": 0,
       "create_u": "ssimon",
       "created_user_type": "SIT_Employee",
-      "create_d": "2025-11-24T20:04:07",
+      "create_d": "2025-11-24T20:04:08",
       "mod_u": "ssimon",
       "last_modified_user_type": "SIT_Employee",
-      "mod_d": "2025-11-24T20:04:07",
+      "mod_d": "2025-11-24T20:04:08",
       "is_overtime": false,
       "booking_id": null,
       "description": null,
@@ -3040,7 +3198,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "12:30:00",
       "best_description": null
     },
@@ -3077,12 +3235,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264023"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264030"
     }
   },
   {
     "type": "events",
-    "id": "258958",
+    "id": "258968",
     "attributes": {
       "repeat_id": 258950,
       "resource_id": 25,
@@ -3090,10 +3248,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T12:45:00",
-      "start_gmt": "2025-12-05T20:45:00",
-      "end": "2025-12-05T14:45:00",
-      "end_gmt": "2025-12-05T22:45:00",
+      "start": "2025-12-12T12:45:00",
+      "start_gmt": "2025-12-12T20:45:00",
+      "end": "2025-12-12T14:45:00",
+      "end_gmt": "2025-12-12T22:45:00",
       "customer_id": 0,
       "hteam_id": 9417,
       "vteam_id": null,
@@ -3119,7 +3277,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "12:45:00",
       "best_description": null
     },
@@ -3156,12 +3314,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/258958"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/258968"
     }
   },
   {
     "type": "events",
-    "id": "262162",
+    "id": "262172",
     "attributes": {
       "repeat_id": 262154,
       "resource_id": 25,
@@ -3169,10 +3327,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T12:45:00",
-      "start_gmt": "2025-12-05T20:45:00",
-      "end": "2025-12-05T14:45:00",
-      "end_gmt": "2025-12-05T22:45:00",
+      "start": "2025-12-12T12:45:00",
+      "start_gmt": "2025-12-12T20:45:00",
+      "end": "2025-12-12T14:45:00",
+      "end_gmt": "2025-12-12T22:45:00",
       "customer_id": 0,
       "hteam_id": 9432,
       "vteam_id": null,
@@ -3198,7 +3356,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "12:45:00",
       "best_description": null
     },
@@ -3235,12 +3393,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/262162"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/262172"
     }
   },
   {
     "type": "events",
-    "id": "263717",
+    "id": "263761",
     "attributes": {
       "repeat_id": null,
       "resource_id": 25,
@@ -3248,10 +3406,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T12:45:00",
-      "start_gmt": "2025-12-05T20:45:00",
-      "end": "2025-12-05T14:45:00",
-      "end_gmt": "2025-12-05T22:45:00",
+      "start": "2025-12-12T12:45:00",
+      "start_gmt": "2025-12-12T20:45:00",
+      "end": "2025-12-12T14:45:00",
+      "end_gmt": "2025-12-12T22:45:00",
       "customer_id": 0,
       "hteam_id": 9473,
       "vteam_id": null,
@@ -3263,10 +3421,10 @@
       "register_capacity": 0,
       "create_u": "egarcia",
       "created_user_type": "SIT_Employee",
-      "create_d": "2025-11-24T16:27:54",
+      "create_d": "2025-11-24T16:38:07",
       "mod_u": "egarcia",
       "last_modified_user_type": "SIT_Employee",
-      "mod_d": "2025-11-24T16:27:54",
+      "mod_d": "2025-11-24T16:38:07",
       "is_overtime": false,
       "booking_id": null,
       "description": null,
@@ -3277,7 +3435,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "12:45:00",
       "best_description": null
     },
@@ -3314,12 +3472,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263717"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263761"
     }
   },
   {
     "type": "events",
-    "id": "264054",
+    "id": "264061",
     "attributes": {
       "repeat_id": 264050,
       "resource_id": 62,
@@ -3327,10 +3485,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T13:00:00",
-      "start_gmt": "2025-12-05T21:00:00",
-      "end": "2025-12-05T13:30:00",
-      "end_gmt": "2025-12-05T21:30:00",
+      "start": "2025-12-12T13:00:00",
+      "start_gmt": "2025-12-12T21:00:00",
+      "end": "2025-12-12T13:30:00",
+      "end_gmt": "2025-12-12T21:30:00",
       "customer_id": 0,
       "hteam_id": 9418,
       "vteam_id": null,
@@ -3356,7 +3514,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "13:00:00",
       "best_description": null
     },
@@ -3393,12 +3551,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264054"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264061"
     }
   },
   {
     "type": "events",
-    "id": "264610",
+    "id": "264617",
     "attributes": {
       "repeat_id": 264606,
       "resource_id": 62,
@@ -3406,10 +3564,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T13:00:00",
-      "start_gmt": "2025-12-05T21:00:00",
-      "end": "2025-12-05T14:00:00",
-      "end_gmt": "2025-12-05T22:00:00",
+      "start": "2025-12-12T13:00:00",
+      "start_gmt": "2025-12-12T21:00:00",
+      "end": "2025-12-12T14:00:00",
+      "end_gmt": "2025-12-12T22:00:00",
       "customer_id": 0,
       "hteam_id": 9475,
       "vteam_id": null,
@@ -3435,7 +3593,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "13:00:00",
       "best_description": null
     },
@@ -3472,12 +3630,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264610"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264617"
     }
   },
   {
     "type": "events",
-    "id": "264085",
+    "id": "264092",
     "attributes": {
       "repeat_id": 264081,
       "resource_id": 62,
@@ -3485,10 +3643,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T13:30:00",
-      "start_gmt": "2025-12-05T21:30:00",
-      "end": "2025-12-05T14:00:00",
-      "end_gmt": "2025-12-05T22:00:00",
+      "start": "2025-12-12T13:30:00",
+      "start_gmt": "2025-12-12T21:30:00",
+      "end": "2025-12-12T14:00:00",
+      "end_gmt": "2025-12-12T22:00:00",
       "customer_id": 0,
       "hteam_id": 9418,
       "vteam_id": null,
@@ -3514,7 +3672,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "13:30:00",
       "best_description": null
     },
@@ -3551,12 +3709,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264085"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264092"
     }
   },
   {
     "type": "events",
-    "id": "261785",
+    "id": "261790",
     "attributes": {
       "repeat_id": 261781,
       "resource_id": 24,
@@ -3564,10 +3722,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T14:00:00",
-      "start_gmt": "2025-12-05T22:00:00",
-      "end": "2025-12-05T15:00:00",
-      "end_gmt": "2025-12-05T23:00:00",
+      "start": "2025-12-12T14:00:00",
+      "start_gmt": "2025-12-12T22:00:00",
+      "end": "2025-12-12T15:00:00",
+      "end_gmt": "2025-12-12T23:00:00",
       "customer_id": 0,
       "hteam_id": 9429,
       "vteam_id": null,
@@ -3593,7 +3751,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "14:00:00",
       "best_description": "<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; line-height: 107%; font-family: 'Verdana',sans-serif; color: black; background: white;\">-The session is for Figure Skaters</span><strong><u><span style=\"font-family: 'Verdana',sans-serif; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi;\">&nbsp;FS1 or higher.<br /></span></u></strong><strong><span style=\"font-family: 'Verdana',sans-serif; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; font-weight: normal;\">-Priority of right of way is in the following order:<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1) Skaters in Programs<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2) Skaters in Lesson<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3) All other freestyle skaters<br />-Please be mindful of your surroundings</span></strong></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; line-height: 107%; font-family: 'Verdana',sans-serif; color: black;\"><br /><strong><span style=\"background: white;\"><span style=\"font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; text-align: start; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; word-spacing: 0px;\">Freestyle Rules:</span></span></strong></span></p>\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 10.5pt; line-height: 107%; font-family: 'Verdana',sans-serif; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; color: black; background: white;\">-&nbsp;All&nbsp;<u>Skaters must check in</u>&nbsp;at Front desk before entering Ice</span></strong><strong><span style=\"font-size: 10.5pt; line-height: 107%; font-family: 'Verdana',sans-serif; color: black; background: white;\"><br /><strong>- NO Virtual/Zoom Lessons</strong></span></strong><span style=\"font-size: 10.5pt; line-height: 107%; font-family: 'Verdana',sans-serif; color: black;\"><br /><strong><span style=\"font-family: 'Verdana',sans-serif; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; background: white;\">- NO Refunds, Credits, Session changes or exchanges.</span></strong><strong><span style=\"background: white;\"><br /><strong>- NO Waitlist for Full Sessions</strong></span></strong></span></p>"
     },
@@ -3630,12 +3788,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/261785"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/261790"
     }
   },
   {
     "type": "events",
-    "id": "264116",
+    "id": "264123",
     "attributes": {
       "repeat_id": 264112,
       "resource_id": 62,
@@ -3643,10 +3801,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T14:00:00",
-      "start_gmt": "2025-12-05T22:00:00",
-      "end": "2025-12-05T14:30:00",
-      "end_gmt": "2025-12-05T22:30:00",
+      "start": "2025-12-12T14:00:00",
+      "start_gmt": "2025-12-12T22:00:00",
+      "end": "2025-12-12T14:30:00",
+      "end_gmt": "2025-12-12T22:30:00",
       "customer_id": 0,
       "hteam_id": 9418,
       "vteam_id": null,
@@ -3658,7 +3816,7 @@
       "register_capacity": 0,
       "create_u": "ssimon",
       "created_user_type": "SIT_Employee",
-      "create_d": "2025-11-24T20:04:47",
+      "create_d": "2025-11-24T20:04:48",
       "mod_u": "ssimon",
       "last_modified_user_type": "SIT_Employee",
       "mod_d": "2025-11-24T20:04:48",
@@ -3672,7 +3830,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "14:00:00",
       "best_description": null
     },
@@ -3709,12 +3867,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264116"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264123"
     }
   },
   {
     "type": "events",
-    "id": "264641",
+    "id": "264648",
     "attributes": {
       "repeat_id": 264637,
       "resource_id": 62,
@@ -3722,10 +3880,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T14:00:00",
-      "start_gmt": "2025-12-05T22:00:00",
-      "end": "2025-12-05T15:00:00",
-      "end_gmt": "2025-12-05T23:00:00",
+      "start": "2025-12-12T14:00:00",
+      "start_gmt": "2025-12-12T22:00:00",
+      "end": "2025-12-12T15:00:00",
+      "end_gmt": "2025-12-12T23:00:00",
       "customer_id": 0,
       "hteam_id": 9475,
       "vteam_id": null,
@@ -3751,7 +3909,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "14:00:00",
       "best_description": null
     },
@@ -3788,12 +3946,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264641"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264648"
     }
   },
   {
     "type": "events",
-    "id": "264147",
+    "id": "264154",
     "attributes": {
       "repeat_id": 264143,
       "resource_id": 62,
@@ -3801,10 +3959,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T14:30:00",
-      "start_gmt": "2025-12-05T22:30:00",
-      "end": "2025-12-05T15:00:00",
-      "end_gmt": "2025-12-05T23:00:00",
+      "start": "2025-12-12T14:30:00",
+      "start_gmt": "2025-12-12T22:30:00",
+      "end": "2025-12-12T15:00:00",
+      "end_gmt": "2025-12-12T23:00:00",
       "customer_id": 0,
       "hteam_id": 9418,
       "vteam_id": null,
@@ -3830,7 +3988,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "14:30:00",
       "best_description": null
     },
@@ -3867,12 +4025,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264147"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264154"
     }
   },
   {
     "type": "events",
-    "id": "261812",
+    "id": "261822",
     "attributes": {
       "repeat_id": 261804,
       "resource_id": 24,
@@ -3880,10 +4038,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T15:00:00",
-      "start_gmt": "2025-12-05T23:00:00",
-      "end": "2025-12-05T16:00:00",
-      "end_gmt": "2025-12-06T00:00:00",
+      "start": "2025-12-12T15:00:00",
+      "start_gmt": "2025-12-12T23:00:00",
+      "end": "2025-12-12T16:00:00",
+      "end_gmt": "2025-12-13T00:00:00",
       "customer_id": 0,
       "hteam_id": 9429,
       "vteam_id": null,
@@ -3909,7 +4067,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "15:00:00",
       "best_description": "<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; line-height: 107%; font-family: 'Verdana',sans-serif; color: black; background: white;\">-The session is for Figure Skaters</span><strong><u><span style=\"font-family: 'Verdana',sans-serif; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi;\">&nbsp;FS1 or higher.<br /></span></u></strong><strong><span style=\"font-family: 'Verdana',sans-serif; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; font-weight: normal;\">-Priority of right of way is in the following order:<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1) Skaters in Programs<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2) Skaters in Lesson<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3) All other freestyle skaters<br />-Please be mindful of your surroundings</span></strong></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; line-height: 107%; font-family: 'Verdana',sans-serif; color: black;\"><br /><strong><span style=\"background: white;\"><span style=\"font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; text-align: start; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; word-spacing: 0px;\">Freestyle Rules:</span></span></strong></span></p>\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 10.5pt; line-height: 107%; font-family: 'Verdana',sans-serif; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; color: black; background: white;\">-&nbsp;All&nbsp;<u>Skaters must check in</u>&nbsp;at Front desk before entering Ice</span></strong><strong><span style=\"font-size: 10.5pt; line-height: 107%; font-family: 'Verdana',sans-serif; color: black; background: white;\"><br /><strong>- NO Virtual/Zoom Lessons</strong></span></strong><span style=\"font-size: 10.5pt; line-height: 107%; font-family: 'Verdana',sans-serif; color: black;\"><br /><strong><span style=\"font-family: 'Verdana',sans-serif; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; background: white;\">- NO Refunds, Credits, Session changes or exchanges.</span></strong><strong><span style=\"background: white;\"><br /><strong>- NO Waitlist for Full Sessions</strong></span></strong></span></p>"
     },
@@ -3946,12 +4104,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/261812"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/261822"
     }
   },
   {
     "type": "events",
-    "id": "262111",
+    "id": "262116",
     "attributes": {
       "repeat_id": 262107,
       "resource_id": 25,
@@ -3959,10 +4117,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T15:00:00",
-      "start_gmt": "2025-12-05T23:00:00",
-      "end": "2025-12-05T17:00:00",
-      "end_gmt": "2025-12-06T01:00:00",
+      "start": "2025-12-12T15:00:00",
+      "start_gmt": "2025-12-12T23:00:00",
+      "end": "2025-12-12T17:00:00",
+      "end_gmt": "2025-12-13T01:00:00",
       "customer_id": 0,
       "hteam_id": 9417,
       "vteam_id": null,
@@ -3977,7 +4135,7 @@
       "create_d": "2025-11-23T09:46:45",
       "mod_u": "egarcia",
       "last_modified_user_type": "SIT_Employee",
-      "mod_d": "2025-11-24T09:08:13",
+      "mod_d": "2025-11-23T09:46:45",
       "is_overtime": false,
       "booking_id": null,
       "description": null,
@@ -3988,7 +4146,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "15:00:00",
       "best_description": null
     },
@@ -4025,12 +4183,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/262111"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/262116"
     }
   },
   {
     "type": "events",
-    "id": "262346",
+    "id": "263549",
     "attributes": {
       "repeat_id": null,
       "resource_id": 25,
@@ -4038,12 +4196,12 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T15:00:00",
-      "start_gmt": "2025-12-05T23:00:00",
-      "end": "2025-12-05T17:00:00",
-      "end_gmt": "2025-12-06T01:00:00",
+      "start": "2025-12-12T15:00:00",
+      "start_gmt": "2025-12-12T23:00:00",
+      "end": "2025-12-12T17:00:00",
+      "end_gmt": "2025-12-13T01:00:00",
       "customer_id": 0,
-      "hteam_id": 9447,
+      "hteam_id": 9432,
       "vteam_id": null,
       "league_id": 4079,
       "home_score": null,
@@ -4053,10 +4211,10 @@
       "register_capacity": 0,
       "create_u": "egarcia",
       "created_user_type": "SIT_Employee",
-      "create_d": "2025-11-24T09:29:13",
+      "create_d": "2025-11-24T15:26:25",
       "mod_u": "egarcia",
       "last_modified_user_type": "SIT_Employee",
-      "mod_d": "2025-11-24T15:13:31",
+      "mod_d": "2025-11-24T15:26:25",
       "is_overtime": false,
       "booking_id": null,
       "description": null,
@@ -4067,7 +4225,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "15:00:00",
       "best_description": null
     },
@@ -4104,12 +4262,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/262346"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263549"
     }
   },
   {
     "type": "events",
-    "id": "263719",
+    "id": "263956",
     "attributes": {
       "repeat_id": null,
       "resource_id": 25,
@@ -4117,10 +4275,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T15:00:00",
-      "start_gmt": "2025-12-05T23:00:00",
-      "end": "2025-12-05T17:00:00",
-      "end_gmt": "2025-12-06T01:00:00",
+      "start": "2025-12-12T15:00:00",
+      "start_gmt": "2025-12-12T23:00:00",
+      "end": "2025-12-12T17:00:00",
+      "end_gmt": "2025-12-13T01:00:00",
       "customer_id": 0,
       "hteam_id": 9473,
       "vteam_id": null,
@@ -4132,10 +4290,10 @@
       "register_capacity": 0,
       "create_u": "egarcia",
       "created_user_type": "SIT_Employee",
-      "create_d": "2025-11-24T16:28:05",
+      "create_d": "2025-11-24T17:32:03",
       "mod_u": "egarcia",
       "last_modified_user_type": "SIT_Employee",
-      "mod_d": "2025-11-24T16:28:05",
+      "mod_d": "2025-11-24T17:32:03",
       "is_overtime": false,
       "booking_id": null,
       "description": null,
@@ -4146,7 +4304,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "15:00:00",
       "best_description": null
     },
@@ -4183,12 +4341,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263719"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263956"
     }
   },
   {
     "type": "events",
-    "id": "264178",
+    "id": "264185",
     "attributes": {
       "repeat_id": 264174,
       "resource_id": 62,
@@ -4196,10 +4354,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T15:00:00",
-      "start_gmt": "2025-12-05T23:00:00",
-      "end": "2025-12-05T15:30:00",
-      "end_gmt": "2025-12-05T23:30:00",
+      "start": "2025-12-12T15:00:00",
+      "start_gmt": "2025-12-12T23:00:00",
+      "end": "2025-12-12T15:30:00",
+      "end_gmt": "2025-12-12T23:30:00",
       "customer_id": 0,
       "hteam_id": 9418,
       "vteam_id": null,
@@ -4225,7 +4383,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "15:00:00",
       "best_description": null
     },
@@ -4262,12 +4420,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264178"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264185"
     }
   },
   {
     "type": "events",
-    "id": "264672",
+    "id": "264679",
     "attributes": {
       "repeat_id": 264668,
       "resource_id": 62,
@@ -4275,10 +4433,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T15:00:00",
-      "start_gmt": "2025-12-05T23:00:00",
-      "end": "2025-12-05T16:00:00",
-      "end_gmt": "2025-12-06T00:00:00",
+      "start": "2025-12-12T15:00:00",
+      "start_gmt": "2025-12-12T23:00:00",
+      "end": "2025-12-12T16:00:00",
+      "end_gmt": "2025-12-13T00:00:00",
       "customer_id": 0,
       "hteam_id": 9475,
       "vteam_id": null,
@@ -4304,7 +4462,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "15:00:00",
       "best_description": null
     },
@@ -4341,12 +4499,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264672"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264679"
     }
   },
   {
     "type": "events",
-    "id": "264209",
+    "id": "264216",
     "attributes": {
       "repeat_id": 264205,
       "resource_id": 62,
@@ -4354,10 +4512,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T15:30:00",
-      "start_gmt": "2025-12-05T23:30:00",
-      "end": "2025-12-05T16:00:00",
-      "end_gmt": "2025-12-06T00:00:00",
+      "start": "2025-12-12T15:30:00",
+      "start_gmt": "2025-12-12T23:30:00",
+      "end": "2025-12-12T16:00:00",
+      "end_gmt": "2025-12-13T00:00:00",
       "customer_id": 0,
       "hteam_id": 9418,
       "vteam_id": null,
@@ -4369,10 +4527,10 @@
       "register_capacity": 0,
       "create_u": "ssimon",
       "created_user_type": "SIT_Employee",
-      "create_d": "2025-11-24T20:05:58",
+      "create_d": "2025-11-24T20:05:59",
       "mod_u": "ssimon",
       "last_modified_user_type": "SIT_Employee",
-      "mod_d": "2025-11-24T20:05:58",
+      "mod_d": "2025-11-24T20:05:59",
       "is_overtime": false,
       "booking_id": null,
       "description": null,
@@ -4383,7 +4541,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "15:30:00",
       "best_description": null
     },
@@ -4420,12 +4578,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264209"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264216"
     }
   },
   {
     "type": "events",
-    "id": "264240",
+    "id": "264247",
     "attributes": {
       "repeat_id": 264236,
       "resource_id": 62,
@@ -4433,10 +4591,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T16:00:00",
-      "start_gmt": "2025-12-06T00:00:00",
-      "end": "2025-12-05T16:30:00",
-      "end_gmt": "2025-12-06T00:30:00",
+      "start": "2025-12-12T16:00:00",
+      "start_gmt": "2025-12-13T00:00:00",
+      "end": "2025-12-12T16:30:00",
+      "end_gmt": "2025-12-13T00:30:00",
       "customer_id": 0,
       "hteam_id": 9418,
       "vteam_id": null,
@@ -4462,7 +4620,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "16:00:00",
       "best_description": null
     },
@@ -4499,12 +4657,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264240"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264247"
     }
   },
   {
     "type": "events",
-    "id": "264702",
+    "id": "264708",
     "attributes": {
       "repeat_id": 264699,
       "resource_id": 62,
@@ -4512,10 +4670,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T16:00:00",
-      "start_gmt": "2025-12-06T00:00:00",
-      "end": "2025-12-05T17:00:00",
-      "end_gmt": "2025-12-06T01:00:00",
+      "start": "2025-12-12T16:00:00",
+      "start_gmt": "2025-12-13T00:00:00",
+      "end": "2025-12-12T17:00:00",
+      "end_gmt": "2025-12-13T01:00:00",
       "customer_id": 0,
       "hteam_id": 9475,
       "vteam_id": null,
@@ -4541,7 +4699,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "16:00:00",
       "best_description": null
     },
@@ -4578,12 +4736,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264702"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264708"
     }
   },
   {
     "type": "events",
-    "id": "263121",
+    "id": "263123",
     "attributes": {
       "repeat_id": 263121,
       "resource_id": 24,
@@ -4591,10 +4749,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T16:15:00",
-      "start_gmt": "2025-12-06T00:15:00",
-      "end": "2025-12-05T17:15:00",
-      "end_gmt": "2025-12-06T01:15:00",
+      "start": "2025-12-12T16:15:00",
+      "start_gmt": "2025-12-13T00:15:00",
+      "end": "2025-12-12T17:15:00",
+      "end_gmt": "2025-12-13T01:15:00",
       "customer_id": 0,
       "hteam_id": 9459,
       "vteam_id": null,
@@ -4620,7 +4778,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "16:15:00",
       "best_description": "<p><strong>Private Hockey Lessons</strong></p>\n<p>Players must be on the ice with a Sharks Ice private coach!&nbsp;</p>"
     },
@@ -4657,12 +4815,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263121"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263123"
     }
   },
   {
     "type": "events",
-    "id": "263129",
+    "id": "263130",
     "attributes": {
       "repeat_id": 263129,
       "resource_id": 26,
@@ -4670,10 +4828,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T16:15:00",
-      "start_gmt": "2025-12-06T00:15:00",
-      "end": "2025-12-05T17:15:00",
-      "end_gmt": "2025-12-06T01:15:00",
+      "start": "2025-12-12T16:15:00",
+      "start_gmt": "2025-12-13T00:15:00",
+      "end": "2025-12-12T17:15:00",
+      "end_gmt": "2025-12-13T01:15:00",
       "customer_id": 0,
       "hteam_id": 9459,
       "vteam_id": null,
@@ -4694,12 +4852,12 @@
       "description": null,
       "notice": null,
       "last_resource_id": null,
-      "parent_event_id": 263121,
+      "parent_event_id": 263123,
       "has_gender_locker_rooms": 0,
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "16:15:00",
       "best_description": "<p><strong>Private Hockey Lessons</strong></p>\n<p>Players must be on the ice with a Sharks Ice private coach!&nbsp;</p>"
     },
@@ -4736,12 +4894,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263129"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263130"
     }
   },
   {
     "type": "events",
-    "id": "263133",
+    "id": "263134",
     "attributes": {
       "repeat_id": 263133,
       "resource_id": 30,
@@ -4749,10 +4907,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T16:15:00",
-      "start_gmt": "2025-12-06T00:15:00",
-      "end": "2025-12-05T17:15:00",
-      "end_gmt": "2025-12-06T01:15:00",
+      "start": "2025-12-12T16:15:00",
+      "start_gmt": "2025-12-13T00:15:00",
+      "end": "2025-12-12T17:15:00",
+      "end_gmt": "2025-12-13T01:15:00",
       "customer_id": 0,
       "hteam_id": 9459,
       "vteam_id": null,
@@ -4773,12 +4931,12 @@
       "description": null,
       "notice": null,
       "last_resource_id": null,
-      "parent_event_id": 263121,
+      "parent_event_id": 263123,
       "has_gender_locker_rooms": 0,
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "16:15:00",
       "best_description": "<p><strong>Private Hockey Lessons</strong></p>\n<p>Players must be on the ice with a Sharks Ice private coach!&nbsp;</p>"
     },
@@ -4815,12 +4973,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263133"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263134"
     }
   },
   {
     "type": "events",
-    "id": "263137",
+    "id": "263138",
     "attributes": {
       "repeat_id": 263137,
       "resource_id": 31,
@@ -4828,10 +4986,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T16:15:00",
-      "start_gmt": "2025-12-06T00:15:00",
-      "end": "2025-12-05T17:15:00",
-      "end_gmt": "2025-12-06T01:15:00",
+      "start": "2025-12-12T16:15:00",
+      "start_gmt": "2025-12-13T00:15:00",
+      "end": "2025-12-12T17:15:00",
+      "end_gmt": "2025-12-13T01:15:00",
       "customer_id": 0,
       "hteam_id": 9459,
       "vteam_id": null,
@@ -4852,12 +5010,12 @@
       "description": null,
       "notice": null,
       "last_resource_id": null,
-      "parent_event_id": 263121,
+      "parent_event_id": 263123,
       "has_gender_locker_rooms": 0,
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "16:15:00",
       "best_description": "<p><strong>Private Hockey Lessons</strong></p>\n<p>Players must be on the ice with a Sharks Ice private coach!&nbsp;</p>"
     },
@@ -4894,12 +5052,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263137"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263138"
     }
   },
   {
     "type": "events",
-    "id": "263141",
+    "id": "263142",
     "attributes": {
       "repeat_id": 263141,
       "resource_id": 28,
@@ -4907,10 +5065,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T16:15:00",
-      "start_gmt": "2025-12-06T00:15:00",
-      "end": "2025-12-05T17:15:00",
-      "end_gmt": "2025-12-06T01:15:00",
+      "start": "2025-12-12T16:15:00",
+      "start_gmt": "2025-12-13T00:15:00",
+      "end": "2025-12-12T17:15:00",
+      "end_gmt": "2025-12-13T01:15:00",
       "customer_id": 0,
       "hteam_id": 9459,
       "vteam_id": null,
@@ -4931,12 +5089,12 @@
       "description": null,
       "notice": null,
       "last_resource_id": null,
-      "parent_event_id": 263121,
+      "parent_event_id": 263123,
       "has_gender_locker_rooms": 0,
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "16:15:00",
       "best_description": "<p><strong>Private Hockey Lessons</strong></p>\n<p>Players must be on the ice with a Sharks Ice private coach!&nbsp;</p>"
     },
@@ -4973,12 +5131,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263141"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263142"
     }
   },
   {
     "type": "events",
-    "id": "264270",
+    "id": "264276",
     "attributes": {
       "repeat_id": 264267,
       "resource_id": 62,
@@ -4986,10 +5144,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T16:30:00",
-      "start_gmt": "2025-12-06T00:30:00",
-      "end": "2025-12-05T17:00:00",
-      "end_gmt": "2025-12-06T01:00:00",
+      "start": "2025-12-12T16:30:00",
+      "start_gmt": "2025-12-13T00:30:00",
+      "end": "2025-12-12T17:00:00",
+      "end_gmt": "2025-12-13T01:00:00",
       "customer_id": 0,
       "hteam_id": 9418,
       "vteam_id": null,
@@ -5015,7 +5173,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "16:30:00",
       "best_description": null
     },
@@ -5052,12 +5210,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264270"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264276"
     }
   },
   {
     "type": "events",
-    "id": "264298",
+    "id": "264304",
     "attributes": {
       "repeat_id": 264295,
       "resource_id": 62,
@@ -5065,10 +5223,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T17:00:00",
-      "start_gmt": "2025-12-06T01:00:00",
-      "end": "2025-12-05T17:30:00",
-      "end_gmt": "2025-12-06T01:30:00",
+      "start": "2025-12-12T17:00:00",
+      "start_gmt": "2025-12-13T01:00:00",
+      "end": "2025-12-12T17:30:00",
+      "end_gmt": "2025-12-13T01:30:00",
       "customer_id": 0,
       "hteam_id": 9418,
       "vteam_id": null,
@@ -5094,7 +5252,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "17:00:00",
       "best_description": null
     },
@@ -5131,12 +5289,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264298"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264304"
     }
   },
   {
     "type": "events",
-    "id": "264729",
+    "id": "264734",
     "attributes": {
       "repeat_id": 264727,
       "resource_id": 62,
@@ -5144,10 +5302,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T17:00:00",
-      "start_gmt": "2025-12-06T01:00:00",
-      "end": "2025-12-05T18:00:00",
-      "end_gmt": "2025-12-06T02:00:00",
+      "start": "2025-12-12T17:00:00",
+      "start_gmt": "2025-12-13T01:00:00",
+      "end": "2025-12-12T18:00:00",
+      "end_gmt": "2025-12-13T02:00:00",
       "customer_id": 0,
       "hteam_id": 9475,
       "vteam_id": null,
@@ -5159,10 +5317,10 @@
       "register_capacity": 0,
       "create_u": "ssimon",
       "created_user_type": "SIT_Employee",
-      "create_d": "2025-11-24T20:19:56",
+      "create_d": "2025-11-24T20:19:57",
       "mod_u": "ssimon",
       "last_modified_user_type": "SIT_Employee",
-      "mod_d": "2025-11-24T20:19:56",
+      "mod_d": "2025-11-24T20:19:57",
       "is_overtime": false,
       "booking_id": null,
       "description": null,
@@ -5173,7 +5331,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "17:00:00",
       "best_description": null
     },
@@ -5210,12 +5368,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264729"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264734"
     }
   },
   {
     "type": "events",
-    "id": "264325",
+    "id": "264330",
     "attributes": {
       "repeat_id": 264323,
       "resource_id": 62,
@@ -5223,10 +5381,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T17:30:00",
-      "start_gmt": "2025-12-06T01:30:00",
-      "end": "2025-12-05T18:00:00",
-      "end_gmt": "2025-12-06T02:00:00",
+      "start": "2025-12-12T17:30:00",
+      "start_gmt": "2025-12-13T01:30:00",
+      "end": "2025-12-12T18:00:00",
+      "end_gmt": "2025-12-13T02:00:00",
       "customer_id": 0,
       "hteam_id": 9418,
       "vteam_id": null,
@@ -5238,7 +5396,7 @@
       "register_capacity": 0,
       "create_u": "ssimon",
       "created_user_type": "SIT_Employee",
-      "create_d": "2025-11-24T20:08:31",
+      "create_d": "2025-11-24T20:08:32",
       "mod_u": "ssimon",
       "last_modified_user_type": "SIT_Employee",
       "mod_d": "2025-11-24T20:08:32",
@@ -5252,7 +5410,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "17:30:00",
       "best_description": null
     },
@@ -5289,12 +5447,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264325"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264330"
     }
   },
   {
     "type": "events",
-    "id": "264350",
+    "id": "264355",
     "attributes": {
       "repeat_id": 264348,
       "resource_id": 62,
@@ -5302,10 +5460,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T18:00:00",
-      "start_gmt": "2025-12-06T02:00:00",
-      "end": "2025-12-05T18:30:00",
-      "end_gmt": "2025-12-06T02:30:00",
+      "start": "2025-12-12T18:00:00",
+      "start_gmt": "2025-12-13T02:00:00",
+      "end": "2025-12-12T18:30:00",
+      "end_gmt": "2025-12-13T02:30:00",
       "customer_id": 0,
       "hteam_id": 9418,
       "vteam_id": null,
@@ -5331,7 +5489,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "18:00:00",
       "best_description": null
     },
@@ -5368,12 +5526,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264350"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264355"
     }
   },
   {
     "type": "events",
-    "id": "264754",
+    "id": "264759",
     "attributes": {
       "repeat_id": 264752,
       "resource_id": 62,
@@ -5381,10 +5539,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T18:00:00",
-      "start_gmt": "2025-12-06T02:00:00",
-      "end": "2025-12-05T19:00:00",
-      "end_gmt": "2025-12-06T03:00:00",
+      "start": "2025-12-12T18:00:00",
+      "start_gmt": "2025-12-13T02:00:00",
+      "end": "2025-12-12T19:00:00",
+      "end_gmt": "2025-12-13T03:00:00",
       "customer_id": 0,
       "hteam_id": 9475,
       "vteam_id": null,
@@ -5410,7 +5568,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "18:00:00",
       "best_description": null
     },
@@ -5447,12 +5605,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264754"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264759"
     }
   },
   {
     "type": "events",
-    "id": "264375",
+    "id": "264380",
     "attributes": {
       "repeat_id": 264373,
       "resource_id": 62,
@@ -5460,10 +5618,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T18:30:00",
-      "start_gmt": "2025-12-06T02:30:00",
-      "end": "2025-12-05T19:00:00",
-      "end_gmt": "2025-12-06T03:00:00",
+      "start": "2025-12-12T18:30:00",
+      "start_gmt": "2025-12-13T02:30:00",
+      "end": "2025-12-12T19:00:00",
+      "end_gmt": "2025-12-13T03:00:00",
       "customer_id": 0,
       "hteam_id": 9418,
       "vteam_id": null,
@@ -5475,10 +5633,10 @@
       "register_capacity": 0,
       "create_u": "ssimon",
       "created_user_type": "SIT_Employee",
-      "create_d": "2025-11-24T20:09:10",
+      "create_d": "2025-11-24T20:09:11",
       "mod_u": "ssimon",
       "last_modified_user_type": "SIT_Employee",
-      "mod_d": "2025-11-24T20:09:10",
+      "mod_d": "2025-11-24T20:09:11",
       "is_overtime": false,
       "booking_id": null,
       "description": null,
@@ -5489,7 +5647,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "18:30:00",
       "best_description": null
     },
@@ -5526,12 +5684,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264375"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264380"
     }
   },
   {
     "type": "events",
-    "id": "264400",
+    "id": "264405",
     "attributes": {
       "repeat_id": 264398,
       "resource_id": 62,
@@ -5539,10 +5697,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T19:00:00",
-      "start_gmt": "2025-12-06T03:00:00",
-      "end": "2025-12-05T19:30:00",
-      "end_gmt": "2025-12-06T03:30:00",
+      "start": "2025-12-12T19:00:00",
+      "start_gmt": "2025-12-13T03:00:00",
+      "end": "2025-12-12T19:30:00",
+      "end_gmt": "2025-12-13T03:30:00",
       "customer_id": 0,
       "hteam_id": 9418,
       "vteam_id": null,
@@ -5568,7 +5726,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "19:00:00",
       "best_description": null
     },
@@ -5605,12 +5763,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264400"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264405"
     }
   },
   {
     "type": "events",
-    "id": "264779",
+    "id": "264784",
     "attributes": {
       "repeat_id": 264777,
       "resource_id": 62,
@@ -5618,10 +5776,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T19:00:00",
-      "start_gmt": "2025-12-06T03:00:00",
-      "end": "2025-12-05T20:00:00",
-      "end_gmt": "2025-12-06T04:00:00",
+      "start": "2025-12-12T19:00:00",
+      "start_gmt": "2025-12-13T03:00:00",
+      "end": "2025-12-12T20:00:00",
+      "end_gmt": "2025-12-13T04:00:00",
       "customer_id": 0,
       "hteam_id": 9475,
       "vteam_id": null,
@@ -5647,7 +5805,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "19:00:00",
       "best_description": null
     },
@@ -5684,12 +5842,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264779"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264784"
     }
   },
   {
     "type": "events",
-    "id": "262476",
+    "id": "262478",
     "attributes": {
       "repeat_id": 262476,
       "resource_id": 25,
@@ -5697,10 +5855,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T19:15:00",
-      "start_gmt": "2025-12-06T03:15:00",
-      "end": "2025-12-05T21:15:00",
-      "end_gmt": "2025-12-06T05:15:00",
+      "start": "2025-12-12T19:15:00",
+      "start_gmt": "2025-12-13T03:15:00",
+      "end": "2025-12-12T21:15:00",
+      "end_gmt": "2025-12-13T05:15:00",
       "customer_id": 0,
       "hteam_id": 9453,
       "vteam_id": null,
@@ -5726,7 +5884,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "19:15:00",
       "best_description": null
     },
@@ -5763,12 +5921,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/262476"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/262478"
     }
   },
   {
     "type": "events",
-    "id": "263537",
+    "id": "263550",
     "attributes": {
       "repeat_id": null,
       "resource_id": 25,
@@ -5776,12 +5934,12 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T19:15:00",
-      "start_gmt": "2025-12-06T03:15:00",
-      "end": "2025-12-05T21:15:00",
-      "end_gmt": "2025-12-06T05:15:00",
+      "start": "2025-12-12T19:15:00",
+      "start_gmt": "2025-12-13T03:15:00",
+      "end": "2025-12-12T21:15:00",
+      "end_gmt": "2025-12-13T05:15:00",
       "customer_id": 0,
-      "hteam_id": 9447,
+      "hteam_id": 9432,
       "vteam_id": null,
       "league_id": 4079,
       "home_score": null,
@@ -5791,10 +5949,10 @@
       "register_capacity": 0,
       "create_u": "egarcia",
       "created_user_type": "SIT_Employee",
-      "create_d": "2025-11-24T15:17:40",
-      "mod_u": "cnichols",
+      "create_d": "2025-11-24T15:27:06",
+      "mod_u": "egarcia",
       "last_modified_user_type": "SIT_Employee",
-      "mod_d": "2025-11-24T17:43:58",
+      "mod_d": "2025-11-24T15:27:13",
       "is_overtime": false,
       "booking_id": null,
       "description": null,
@@ -5805,7 +5963,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "19:15:00",
       "best_description": null
     },
@@ -5842,12 +6000,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263537"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263550"
     }
   },
   {
     "type": "events",
-    "id": "263721",
+    "id": "263763",
     "attributes": {
       "repeat_id": null,
       "resource_id": 25,
@@ -5855,10 +6013,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T19:15:00",
-      "start_gmt": "2025-12-06T03:15:00",
-      "end": "2025-12-05T21:15:00",
-      "end_gmt": "2025-12-06T05:15:00",
+      "start": "2025-12-12T19:15:00",
+      "start_gmt": "2025-12-13T03:15:00",
+      "end": "2025-12-12T21:15:00",
+      "end_gmt": "2025-12-13T05:15:00",
       "customer_id": 0,
       "hteam_id": 9473,
       "vteam_id": null,
@@ -5870,10 +6028,10 @@
       "register_capacity": 0,
       "create_u": "egarcia",
       "created_user_type": "SIT_Employee",
-      "create_d": "2025-11-24T16:28:30",
+      "create_d": "2025-11-24T16:38:28",
       "mod_u": "egarcia",
       "last_modified_user_type": "SIT_Employee",
-      "mod_d": "2025-11-24T16:28:31",
+      "mod_d": "2025-11-24T16:39:23",
       "is_overtime": false,
       "booking_id": null,
       "description": null,
@@ -5884,7 +6042,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "19:15:00",
       "best_description": null
     },
@@ -5921,12 +6079,12 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263721"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/263763"
     }
   },
   {
     "type": "events",
-    "id": "264426",
+    "id": "264432",
     "attributes": {
       "repeat_id": 264423,
       "resource_id": 62,
@@ -5934,10 +6092,10 @@
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2025-12-05T19:30:00",
-      "start_gmt": "2025-12-06T03:30:00",
-      "end": "2025-12-05T20:00:00",
-      "end_gmt": "2025-12-06T04:00:00",
+      "start": "2025-12-12T19:30:00",
+      "start_gmt": "2025-12-13T03:30:00",
+      "end": "2025-12-12T20:00:00",
+      "end_gmt": "2025-12-13T04:00:00",
       "customer_id": 0,
       "hteam_id": 9418,
       "vteam_id": null,
@@ -5963,7 +6121,7 @@
       "locker_room_type": null,
       "includes_setup_time": false,
       "includes_takedown_time": false,
-      "start_date": "2025-12-05T00:00:00",
+      "start_date": "2025-12-12T00:00:00",
       "event_start_time": "19:30:00",
       "best_description": null
     },
@@ -6000,7 +6158,7 @@
       "rsvpStates": []
     },
     "links": {
-      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264426"
+      "self": "https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events/264432"
     }
   }
 ]
