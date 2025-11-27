@@ -13,6 +13,7 @@ export type EventCategory =
   | "public-skate"
   | "drop-in"
   | "figure-skating"
+  | "private-hockey-lessons"
   | "other";
 
 export interface CategoryConfig {
@@ -28,47 +29,53 @@ export const CATEGORIES: CategoryConfig[] = [
     id: "adult-league-game",
     name: "Adult League Games",
     canRegister: false,
-    color: "#3b82f6", // blue
+    color: "#f8cc1b",
   },
   {
     id: "bears",
     name: "Bears (Youth Hockey)",
     canRegister: false,
-    color: "#ef4444", // red
+    color: "#fa7a48",
   },
   {
     id: "gretzky-hour",
     name: "Gretzky Hour",
     canRegister: true,
     sportsId: 32,
-    color: "#f59e0b", // amber
+    color: "#442276",
   },
   {
     id: "public-skate",
     name: "Public Skate",
     canRegister: true,
     sportsId: 31,
-    color: "#10b981", // green
+    color: "#84a2cd",
   },
   {
     id: "drop-in",
     name: "Drop-In Sessions",
     canRegister: true,
     sportsId: 20,
-    color: "#8b5cf6", // purple
+    color: "#bed057",
   },
   {
     id: "figure-skating",
     name: "Figure Skating",
     canRegister: true,
     sportsId: 27,
-    color: "#ec4899", // pink
+    color: "#4777cd",
+  },
+  {
+    id: "private-hockey-lessons",
+    name: "Private Hockey Lessons",
+    canRegister: false,
+    color: "#ffa5c8",
   },
   {
     id: "other",
     name: "Other",
     canRegister: true,
-    color: "#6b7280", // gray
+    color: "#ab0a58",
   },
 ];
 
@@ -96,6 +103,10 @@ export function categorizeEvent(
   // Team name pattern matching
   if (homeTeamName.includes("Bears") && !hasVisitingTeam) {
     return "bears";
+  }
+
+  if (homeTeamName.includes("OIC - PHL")) {
+    return "private-hockey-lessons";
   }
 
   if (homeTeamName.includes("Gretzky Hour")) {
