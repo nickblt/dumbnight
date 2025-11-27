@@ -256,6 +256,40 @@ async function loadEventsForDate(date: Date): Promise<Event[]> {
 }
 
 /**
+ * Prefetch adjacent days in the background
+ */
+function prefetchAdjacentDays(date: Date, view: View) {
+  if (view === "day") {
+    // Prefetch yesterday and tomorrow
+    const yesterday = new Date(date);
+    yesterday.setDate(date.getDate() - 1);
+    const tomorrow = new Date(date);
+    tomorrow.setDate(date.getDate() + 1);
+
+    loadEventsForDate(yesterday);
+    loadEventsForDate(tomorrow);
+  } else if (view === "week" || view === "work_week") {
+    // Prefetch adjacent weeks
+    const day = date.getDay();
+    const prevWeekDate = new Date(date);
+    prevWeekDate.setDate(date.getDate() - day - 7);
+    const nextWeekDate = new Date(date);
+    nextWeekDate.setDate(date.getDate() - day + 7);
+
+    // Prefetch all days in previous and next weeks
+    for (let i = 0; i < 7; i++) {
+      const prevDay = new Date(prevWeekDate);
+      prevDay.setDate(prevWeekDate.getDate() + i);
+      const nextDay = new Date(nextWeekDate);
+      nextDay.setDate(nextWeekDate.getDate() + i);
+
+      loadEventsForDate(prevDay);
+      loadEventsForDate(nextDay);
+    }
+  }
+}
+
+/**
  * Load events for a date range with team data
  */
 export function useEvents(date: Date, view: View = "day") {
@@ -275,6 +309,9 @@ export function useEvents(date: Date, view: View = "day") {
         // Load all date files in parallel
         const allEventsArrays = await Promise.all(dates.map(loadEventsForDate));
         const allEvents = allEventsArrays.flat();
+
+        // Prefetch adjacent days in the background (don't await)
+        prefetchAdjacentDays(date, view);
 
         // Filter to only NHL and Olympic rinks, exclude BLOCK events, and require home team
         const filteredData = allEvents.filter((event) => {
