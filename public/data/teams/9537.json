@@ -1,12 +1,12 @@
 {
   "type": "teams",
-  "id": "9524",
+  "id": "9537",
   "attributes": {
-    "name": "OIC - Public Skate Adult Admission December 2025",
+    "name": "OIC- Disney on ICE Public Senior: Frozen 2",
     "facility_id": 3,
-    "league_id": 4149,
+    "league_id": 4151,
     "season_id": 1523,
-    "product_id": 1140,
+    "product_id": 1141,
     "is_flat_fee": 0,
     "sex": "c",
     "num_games": 1,
