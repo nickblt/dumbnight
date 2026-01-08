@@ -1,5 +1,5 @@
-import { addDays } from 'date-fns';
-import { formatDate, fetchDayData } from './utils';
+import { addDays } from "date-fns";
+import { formatDate, fetchDayData } from "./utils";
 
 /**
  * Fetch data for:
@@ -11,15 +11,15 @@ async function main() {
   const today = new Date();
   today.setHours(0, 0, 0, 0);
 
-  const daysToFetch = [1, 2, 14];
+  const daysToFetch = [0, 1, 2, 14];
   const dates = daysToFetch.map((days) => ({
     date: addDays(today, days),
-    label: `today + ${days} day${days === 1 ? '' : 's'}`,
+    label: `today + ${days} day${days === 1 ? "" : "s"}`,
   }));
 
-  console.log('=== Nightly Data Fetch ===');
+  console.log("=== Nightly Data Fetch ===");
   console.log(`Today: ${formatDate(today)}`);
-  console.log(`Fetching: ${dates.map((d) => formatDate(d.date)).join(', ')}\n`);
+  console.log(`Fetching: ${dates.map((d) => formatDate(d.date)).join(", ")}\n`);
 
   const results: { date: Date; label: string; success: boolean }[] = [];
 
@@ -34,10 +34,12 @@ async function main() {
     }
   }
 
-  console.log('\n=== Done ===');
+  console.log("\n=== Done ===");
   const failed = results.filter((r) => !r.success);
   if (failed.length > 0) {
-    console.error(`Failed: ${failed.map((r) => formatDate(r.date)).join(', ')}`);
+    console.error(
+      `Failed: ${failed.map((r) => formatDate(r.date)).join(", ")}`,
+    );
     process.exit(1);
   }
 }
