@@ -68,7 +68,7 @@ export const CATEGORIES: CategoryConfig[] = [
   {
     id: "private-hockey-lessons",
     name: "Private Hockey Lessons",
-    canRegister: false,
+    canRegister: true,
     color: "#ffa5c8",
   },
   {
