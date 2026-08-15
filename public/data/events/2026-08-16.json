@@ -234,9 +234,9 @@
       "end": "2026-08-16T08:45:00",
       "end_gmt": "2026-08-16T15:45:00",
       "customer_id": 0,
-      "hteam_id": 10225,
+      "hteam_id": 10221,
       "vteam_id": 10248,
-      "league_id": null,
+      "league_id": 4372,
       "home_score": null,
       "visiting_score": null,
       "publish": true,
@@ -247,7 +247,7 @@
       "create_d": "2026-05-07T14:40:48",
       "mod_u": "mcefola",
       "last_modified_user_type": "SIT_Employee",
-      "mod_d": "2026-05-07T14:40:53",
+      "mod_d": "2026-08-14T12:21:38",
       "is_overtime": false,
       "booking_id": null,
       "description": null,
@@ -260,12 +260,12 @@
       "includes_takedown_time": false,
       "start_date": "2026-08-16T00:00:00",
       "event_start_time": "07:30:00",
-      "best_description": "<p>A: competetive - Over40 Hockey, limited to players aged 40+ years</p>"
+      "best_description": "<p>Division 3 - Teams should consist of mid-level players. In example: played in the ACHA (Div 2 or Div 3). In addition, these teams could consist of former high-level youth players (AA or A). 18-Game regular season.</p>"
     }
   },
   {
     "type": "events",
-    "id": "302560",
+    "id": "321576",
     "attributes": {
       "repeat_id": null,
       "resource_id": 29,
@@ -278,7 +278,7 @@
       "end": "2026-08-16T08:45:00",
       "end_gmt": "2026-08-16T15:45:00",
       "customer_id": 0,
-      "hteam_id": 10225,
+      "hteam_id": 10221,
       "vteam_id": null,
       "league_id": null,
       "home_score": null,
@@ -288,10 +288,10 @@
       "register_capacity": 0,
       "create_u": "mcefola",
       "created_user_type": "SIT_Employee",
-      "create_d": "2026-05-07T14:40:53",
+      "create_d": "2026-08-14T12:21:38",
       "mod_u": "mcefola",
       "last_modified_user_type": "SIT_Employee",
-      "mod_d": "2026-05-07T14:40:53",
+      "mod_d": "2026-08-14T12:21:38",
       "is_overtime": false,
       "booking_id": null,
       "description": null,
@@ -304,12 +304,12 @@
       "includes_takedown_time": false,
       "start_date": "2026-08-16T00:00:00",
       "event_start_time": "07:30:00",
-      "best_description": "<p>A: competetive - Over40 Hockey, limited to players aged 40+ years</p>"
+      "best_description": "<p>Division 3 - Teams should consist of mid-level players. In example: played in the ACHA (Div 2 or Div 3). In addition, these teams could consist of former high-level youth players (AA or A). 18-Game regular season.</p>"
     }
   },
   {
     "type": "events",
-    "id": "302561",
+    "id": "321577",
     "attributes": {
       "repeat_id": null,
       "resource_id": 31,
@@ -332,10 +332,10 @@
       "register_capacity": 0,
       "create_u": "mcefola",
       "created_user_type": "SIT_Employee",
-      "create_d": "2026-05-07T14:40:53",
+      "create_d": "2026-08-14T12:21:38",
       "mod_u": "mcefola",
       "last_modified_user_type": "SIT_Employee",
-      "mod_d": "2026-05-07T14:40:53",
+      "mod_d": "2026-08-14T12:21:38",
       "is_overtime": false,
       "booking_id": null,
       "description": null,
