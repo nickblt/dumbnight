@@ -1104,15 +1104,15 @@
     "id": "325868",
     "attributes": {
       "repeat_id": null,
-      "resource_id": 24,
+      "resource_id": 25,
       "resource_area_id": 0,
       "desc": "",
       "event_type_id": "k",
       "sub_type": "regular",
-      "start": "2026-09-02T21:15:00",
-      "start_gmt": "2026-09-03T04:15:00",
-      "end": "2026-09-02T23:15:00",
-      "end_gmt": "2026-09-03T06:15:00",
+      "start": "2026-09-02T21:00:00",
+      "start_gmt": "2026-09-03T04:00:00",
+      "end": "2026-09-02T23:00:00",
+      "end_gmt": "2026-09-03T06:00:00",
       "customer_id": 0,
       "hteam_id": 11152,
       "vteam_id": null,
@@ -1127,7 +1127,7 @@
       "create_d": "2026-08-28T13:20:51",
       "mod_u": "mcefola",
       "last_modified_user_type": "SIT_Employee",
-      "mod_d": "2026-08-28T13:21:55",
+      "mod_d": "2026-08-31T12:59:58",
       "is_overtime": false,
       "booking_id": null,
       "description": null,
@@ -1139,7 +1139,7 @@
       "includes_setup_time": false,
       "includes_takedown_time": false,
       "start_date": "2026-09-02T00:00:00",
-      "event_start_time": "21:15:00",
+      "event_start_time": "21:00:00",
       "best_description": "No-cost open stick and puck ice time intended for SIAHL Captains and Free Agents. Full equipment is required. Open to all players age 18 and older. Limited to 40 skaters, if registration reaches capacity session time may be split to make room for an additional session. Goalies always welcomed!"
     }
   }
